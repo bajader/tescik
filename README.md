@@ -1,5 +1,7 @@
 # Teścik – Twoje Centrum Nauki 🎓
 
+*English version below.*
+
 **Teścik** to lekka, nowoczesna i w pełni prywatna aplikacja webowa typu PWA, która pozwala na tworzenie, importowanie i rozwiązywanie testów bezpośrednio w przeglądarce. Zaprojektowana z myślą o efektywnej nauce, oferuje inteligentne powtórki i pełną kontrolę nad procesem sprawdzania wiedzy.
 
 ---
@@ -10,9 +12,6 @@
   <img src="./assets/screenshots/preview1.png" width="45%" alt="Dashboard Preview" />
   <img src="./assets/screenshots/preview2.png" width="45%" alt="Quiz Mode Preview" />
 </p>
-
-> [!NOTE]
-> Dodaj swoje screenshoty do folderu `assets/screenshots/`, aby wyświetlić je powyżej.
 
 ---
 
