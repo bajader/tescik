@@ -318,7 +318,6 @@ html:has(dialog[open]) {
     filter: brightness(0.95);
 }
 
-/* Fix for anchor styled as button */
 a.button,
 a.button:visited,
 a.button:active {
@@ -326,7 +325,7 @@ a.button:active {
     cursor: pointer;
 }
 
-/* Specific overrides if needed for specific button types on anchors */
+
 a.tonal-button {
     color: var(--md-sys-color-on-secondary-container);
 }
@@ -412,7 +411,7 @@ a.filled-button {
     color: var(--md-sys-color-error);
 }
 
-/* Hover na setting-item podświetla ikonkę */
+
 #export-data-btn:hover .icon-button,
 #import-data-btn:hover .icon-button {
     background-color: var(--md-sys-color-surface-variant);
