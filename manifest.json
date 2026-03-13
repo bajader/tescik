@@ -1,0 +1,15 @@
+{
+  "name": "Teścik",
+  "short_name": "Teścik",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fcfcff",
+  "theme_color": "#1565C0",
+  "icons": [
+    {
+      "src": "assets/tescik_icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

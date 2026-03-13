@@ -1,0 +1,60 @@
+$ Nazwa testu
+? Pytanie 1
++ Prawidłowa odpowiedź
+- Błędna odpowiedź A
+- Błędna odpowiedź B
+- Błędna odpowiedź C
+
+? 
++ 
+- 
+- 
+- 
+
+? 
++ 
+- 
+- 
+- 
+
+? 
++ 
+- 
+- 
+- 
+
+? 
++ 
+- 
+- 
+- 
+
+? 
++ 
+- 
+- 
+- 
+
+? 
++ 
+- 
+- 
+- 
+
+? 
++ 
+- 
+- 
+- 
+
+? 
++ 
+- 
+- 
+- 
+
+? 
++ 
+- 
+- 
+- 

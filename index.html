@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>Teścik</title>
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="assets/css/noto-sans.css">
+    <link rel="stylesheet" href="assets/css/material-symbols.css">
+
+    <!-- Icons & Manifest -->
+    <link rel="icon" type="image/png" href="assets/tescik_icon.png">
+    <link rel="apple-touch-icon" href="assets/tescik_icon_ios.png">
+    <link rel="manifest" href="manifest.json">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="app-container">
+        <!-- App Bar -->
+        <header class="top-app-bar">
+            <button id="exit-btn" class="icon-button hidden" title="Wróć do menu">
+                <span class="material-symbols-outlined">arrow_back</span>
+            </button>
+            <h1 id="app-title" class="headline-small">Teścik</h1>
+            <div class="spacer"></div>
+            <button id="quiz-restart-btn" class="icon-button hidden" title="Restart testu">
+                <span class="material-symbols-outlined">refresh</span>
+            </button>
+            <button id="about-btn" class="icon-button" title="O aplikacji">
+                <span class="material-symbols-outlined">info</span>
+            </button>
+            <button id="theme-toggle-btn" class="icon-button" title="Zmień motyw">
+                <span class="material-symbols-outlined">dark_mode</span>
+            </button>
+            <button id="settings-btn" class="icon-button" title="Ustawienia">
+                <span class="material-symbols-outlined">settings</span>
+            </button>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+
+            <!-- Upload View -->
+            <section id="upload-view" class="view active">
+                <div class="card elevated-card upload-card">
+                    <div class="card-content">
+
+                        <span class="material-symbols-outlined icon-large">upload_file</span>
+                        <h2 class="headline-small">Wgraj plik z testem</h2>
+                        <p class="body-medium">Przeciągnij plik .txt tutaj lub kliknij, aby wybrać.</p>
+                        <input type="file" id="file-input" accept=".txt" hidden>
+
+                        <div class="action-buttons">
+                            <button id="upload-btn" class="button filled-button">
+                                <span class="label-large">Wybierz plik</span>
+                            </button>
+                            <button id="info-btn" class="button filled-button icon-only" title="Jak przygotować plik?">
+                                <span class="material-symbols-outlined">help</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Saved Tests -->
+                <div id="saved-tests-container" class="saved-tests-grid">
+                    <!-- Saved questions will be loaded here -->
+                </div>
+            </section>
+
+            <!-- Quiz View -->
+            <section id="quiz-view" class="view hidden">
+                <div class="card outlined-card question-card">
+                    <div class="card-content">
+                        <!-- Counter moved to footer -->
+                        <h2 id="question-text" class="title-large">Treść pytania...</h2>
+
+                        <div id="answers-container" class="answers-list">
+                            <!-- Answers will be injected here -->
+                        </div>
+                    </div>
+                    <!-- Actions moved to footer -->
+                </div>
+            </section>
+
+            <!-- Results View -->
+            <section id="results-view" class="view hidden">
+                <div class="card elevated-card results-card">
+                    <div class="card-content">
+                        <span class="material-symbols-outlined icon-large">emoji_events</span>
+                        <h2 class="display-small">Gratulacje!</h2>
+                        <p id="score-text" class="headline-medium">0 / 0</p>
+
+                    </div>
+                    <div class="card-actions">
+                        <button id="restart-btn" class="button filled-button">
+                            <span class="label-large">Zacznij od nowa</span>
+                            <span class="material-symbols-outlined">restart_alt</span>
+                        </button>
+
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Bottom Navigation Bar (Hidden by default) -->
+        <footer id="quiz-footer" class="param-bar hidden">
+            <span id="question-counter" class="label-medium">Pytanie 1 z 10</span>
+            <button id="next-btn" class="button filled-button" disabled>
+                <span class="label-large">Następne</span>
+            </button>
+        </footer>
+    </div>
+
+    <!-- Info Dialog -->
+    <dialog id="info-dialog">
+        <div class="dialog-content">
+            <h3 class="headline-small">Jak przygotować plik?</h3>
+            <p class="body-medium">Plik .txt powinien mieć następujący format:</p>
+            <div class="code-preview">
+                $ Tytuł testu (opcjonalne)<br>
+                ? Treść pytania<br>
+                + Prawidłowa odpowiedź<br>
+                - Błędna odpowiedź
+            </div>
+
+            <p class="body-medium mt-16">Przykład:</p>
+            <div class="code-preview">
+                $ Egzamin z Biologii<br>
+                ? Podstawową jednostką życia jest:<br>
+                - Tkanka<br>
+                + Komórka<br>
+                - Organ
+            </div>
+            <div class="dialog-actions">
+                <button id="close-dialog-btn" class="button text-button">Zamknij</button>
+                <a href="assets/template_10_pytan.txt" download class="button filled-button">Pobierz szablon</a>
+            </div>
+        </div>
+    </dialog>
+
+    <!-- About Dialog -->
+    <dialog id="about-dialog">
+        <div class="dialog-content about-content">
+            <!-- Header -->
+            <div class="dialog-header">
+                <h3 class="headline-small">O aplikacji</h3>
+                <button id="close-about-btn" class="icon-button">
+                    <span class="material-symbols-outlined">close</span>
+                </button>
+            </div>
+
+            <!-- App Info -->
+            <div class="about-app-info mb-16">
+                <img src="assets/tescik_icon.png" alt="Teścik" class="about-app-icon">
+                <p class="body-medium">
+                    <strong>Teścik</strong> v1.2.5<br>
+                    <span class="opacity-medium">Twoje centrum nauki</span>
+                </p>
+            </div>
+
+            <!-- Features List -->
+            <div class="about-features-list">
+                <div class="about-feature-item">
+                    <span class="material-symbols-outlined feature-icon">quiz</span>
+                    <div class="feature-text">
+                        <strong>Tryb Egzaminu</strong>
+                        <span>Symulacja testu bez podpowiedzi.</span>
+                    </div>
+                </div>
+                <div class="about-feature-item">
+                    <span class="material-symbols-outlined feature-icon">psychology</span>
+                    <div class="feature-text">
+                        <strong>Inteligentne powtórki</strong>
+                        <span>Wałkowanie błędnych odpowiedzi.</span>
+                    </div>
+                </div>
+                <div class="about-feature-item">
+                    <span class="material-symbols-outlined feature-icon">save</span>
+                    <div class="feature-text">
+                        <strong>Kopie Zapasowe</strong>
+                        <span>Bezpieczny import i eksport danych.</span>
+                    </div>
+                </div>
+                <div class="about-feature-item">
+                    <span class="material-symbols-outlined feature-icon">tune</span>
+                    <div class="feature-text">
+                        <strong>Pełna kontrola</strong>
+                        <span>AMOLED, mieszanie pytań, autosprawdzanie.</span>
+                    </div>
+                </div>
+                <div class="about-feature-item">
+                    <span class="material-symbols-outlined feature-icon">keyboard</span>
+                    <div class="feature-text">
+                        <strong>Skróty klawiszowe</strong>
+                        <span><b>1-9</b> (wybór), <b>Enter/Spacja</b> (zatwierdź).</span>
+                    </div>
+                </div>
+                <div class="about-feature-item">
+                    <span class="material-symbols-outlined feature-icon">security</span>
+                    <div class="feature-text">
+                        <strong>Prywatność</strong>
+                        <span>Działa 100% offline w przeglądarce.</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Legal Note -->
+            <div class="legal-note-container">
+                <p class="label-small">
+                    <strong>Nota Prawna:</strong><br>
+                    Autor nie ponosi odpowiedzialności za treści wgrywane przez
+                    użytkownika.
+                    Pełna odpowiedzialność za źródło materiałów i ich zgodność z regulaminami leży po stronie
+                    użytkownika.
+                </p>
+            </div>
+
+
+        </div>
+    </dialog>
+
+    <!-- Settings Dialog -->
+    <dialog id="settings-dialog">
+        <div class="dialog-content">
+            <div class="dialog-header">
+                <h3 class="headline-small">Ustawienia</h3>
+                <button id="close-settings-btn" class="icon-button">
+                    <span class="material-symbols-outlined">close</span>
+                </button>
+            </div>
+
+            <div class="settings-list">
+                <!-- Quiz section -->
+                <span class="settings-section-title">Quiz</span>
+
+                <!-- Test mode switch -->
+                <label class="setting-item">
+                    <div class="setting-info">
+                        <span class="setting-label">Tryb testu</span>
+                        <span class="setting-description">Odpowiedzi nie są od razu sprawdzane. Wynik zobaczysz dopiero
+                            po zakończeniu testu.</span>
+                    </div>
+                    <div class="md3-switch">
+                        <input type="checkbox" id="test-mode-toggle">
+                        <span class="switch-track">
+                            <span class="switch-thumb"></span>
+                        </span>
+                    </div>
+                </label>
+
+                <!-- Infinite mode switch -->
+                <label class="setting-item">
+                    <div class="setting-info">
+                        <span class="setting-label">Tryb nieskończony</span>
+                        <span class="setting-description">Pytania wracają do kolejki niezależnie od odpowiedzi.</span>
+                    </div>
+                    <div class="md3-switch">
+                        <input type="checkbox" id="infinite-mode-toggle">
+                        <span class="switch-track">
+                            <span class="switch-thumb"></span>
+                        </span>
+                    </div>
+                </label>
+
+                <!-- Auto-check switch -->
+                <label class="setting-item">
+                    <div class="setting-info">
+                        <span class="setting-label">Automatyczne sprawdzanie</span>
+                        <span class="setting-description">W pytaniach wielokrotnego wyboru odpowiedzi będą sprawdzane
+                            automatycznie po zaznaczeniu wymaganej liczby opcji.</span>
+                    </div>
+                    <div class="md3-switch">
+                        <input type="checkbox" id="auto-check-toggle">
+                        <span class="switch-track">
+                            <span class="switch-thumb"></span>
+                        </span>
+                    </div>
+                </label>
+
+                <!-- Auto skip switch -->
+                <label class="setting-item">
+                    <div class="setting-info">
+                        <span class="setting-label">Auto Skip</span>
+                        <span class="setting-description">Po poprawnej odpowiedzi automatycznie przechodzi do następnego
+                            pytania.</span>
+                    </div>
+                    <div class="md3-switch">
+                        <input type="checkbox" id="auto-skip-toggle">
+                        <span class="switch-track">
+                            <span class="switch-thumb"></span>
+                        </span>
+                    </div>
+                </label>
+
+                <!-- Shuffle questions switch -->
+                <label class="setting-item">
+                    <div class="setting-info">
+                        <span class="setting-label">Mieszaj pytania</span>
+                        <span class="setting-description">Losowo zmienia kolejność pytań w teście.</span>
+                    </div>
+                    <div class="md3-switch">
+                        <input type="checkbox" id="shuffle-questions-toggle">
+                        <span class="switch-track">
+                            <span class="switch-thumb"></span>
+                        </span>
+                    </div>
+                </label>
+
+                <!-- Shuffle answers switch -->
+                <label class="setting-item">
+                    <div class="setting-info">
+                        <span class="setting-label">Mieszaj odpowiedzi</span>
+                        <span class="setting-description">Losowo zmienia kolejność odpowiedzi w każdym pytaniu.</span>
+                    </div>
+                    <div class="md3-switch">
+                        <input type="checkbox" id="shuffle-answers-toggle">
+                        <span class="switch-track">
+                            <span class="switch-thumb"></span>
+                        </span>
+                    </div>
+                </label>
+
+                <!-- Appearance section -->
+                <span class="settings-section-title">Wygląd</span>
+
+                <!-- AMOLED mode switch -->
+                <label class="setting-item">
+                    <div class="setting-info">
+                        <span class="setting-label">Tryb AMOLED</span>
+                        <span class="setting-description">Używa czystej czerni jako tła, idealne dla ekranów
+                            AMOLED.</span>
+                    </div>
+                    <div class="md3-switch">
+                        <input type="checkbox" id="amoled-toggle">
+                        <span class="switch-track">
+                            <span class="switch-thumb"></span>
+                        </span>
+                    </div>
+                </label>
+                <!-- Data Management -->
+                <span class="settings-section-title mt-8">Zarządzanie danymi</span>
+
+                <div class="setting-item" id="export-data-btn">
+                    <div class="setting-info">
+                        <span class="setting-label">Eksportuj kopię zapasową</span>
+                        <span class="setting-description">Pobierz plik ze wszystkimi danymi.</span>
+                    </div>
+                    <button class="icon-button">
+                        <span class="material-symbols-outlined">download</span>
+                    </button>
+                </div>
+
+                <div class="setting-item" id="import-data-btn">
+                    <div class="setting-info">
+                        <span class="setting-label">Importuj kopię zapasową</span>
+                        <span class="setting-description">Przywróć dane z pliku (nadpisze obecne).</span>
+                    </div>
+                    <button class="icon-button">
+                        <span class="material-symbols-outlined">upload</span>
+                    </button>
+                    <input type="file" id="import-file-input" accept=".json" hidden>
+                </div>
+            </div>
+
+            <!-- Danger Zone -->
+            <hr class="dialog-divider">
+            <div class="setting-item" id="delete-all-row">
+                <div class="setting-info">
+                    <span class="setting-label">Usuń wszystkie testy</span>
+                    <span class="setting-description">Tej operacji nie można cofnąć.</span>
+                </div>
+                <button class="icon-button icon-button-danger">
+                    <span class="material-symbols-outlined">delete</span>
+                </button>
+            </div>
+
+
+        </div>
+    </dialog>
+
+    <!-- Confirm Dialog -->
+    <dialog id="confirm-dialog">
+        <div class="dialog-content">
+            <h3 id="confirm-title" class="headline-small">Potwierdzenie</h3>
+            <p id="confirm-message" class="body-medium">Czy na pewno?</p>
+            <div class="dialog-actions">
+                <button id="confirm-cancel-btn" class="button text-button">Anuluj</button>
+                <button id="confirm-ok-btn" class="button filled-button">Potwierdź</button>
+            </div>
+        </div>
+    </dialog>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+</body>
+
+</html>
