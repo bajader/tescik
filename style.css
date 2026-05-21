@@ -1009,6 +1009,14 @@ dialog.closing::backdrop {
     pointer-events: none;
 }
 
+.toast-container[popover] {
+    margin: 0;
+    border: none;
+    padding: 0;
+    background: transparent;
+    overflow: visible;
+}
+
 .toast {
     background-color: var(--md-sys-color-inverse-surface);
     color: var(--md-sys-color-inverse-on-surface);

@@ -356,16 +356,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (secretTestsDialog) setupDialogClickOutside(secretTestsDialog);
 
-    const additionalTestsManifest = [
-        {
-            title: "Dodatkowy test z programowania",
-            file: "test_1.txt"
-        }
-    ];
-
     function showToast(message) {
         const container = document.getElementById('toast-container');
         if (!container) return;
+        
+        if (container.showPopover && !container.matches(':popover-open')) {
+            try { container.showPopover(); } catch (e) {}
+        }
         
         const toast = document.createElement('div');
         toast.className = 'toast';
@@ -379,61 +376,76 @@ document.addEventListener('DOMContentLoaded', () => {
         // Zniknięcie po 3 sekundach
         setTimeout(() => {
             toast.classList.remove('show');
-            setTimeout(() => toast.remove(), 300);
+            setTimeout(() => {
+                toast.remove();
+                if (container.children.length === 0 && container.hidePopover) {
+                    try { container.hidePopover(); } catch(e){}
+                }
+            }, 300);
         }, 3000);
     }
 
     function loadAdditionalTestsList() {
         if (!secretTestsList) return;
-        secretTestsList.innerHTML = '';
-        
-        if (additionalTestsManifest.length === 0) {
-            secretTestsList.innerHTML = '<p class="body-medium opacity-medium">Brak dostępnych testów.</p>';
-            return;
-        }
-        
-        additionalTestsManifest.forEach(item => {
-            const row = document.createElement('div');
-            row.className = 'setting-item';
-            
-            const info = document.createElement('div');
-            info.className = 'setting-info';
-            const titleLabel = document.createElement('span');
-            titleLabel.className = 'setting-label';
-            titleLabel.textContent = item.title;
-            info.appendChild(titleLabel);
-            
-            const loadBtn = document.createElement('button');
-            loadBtn.className = 'button filled-button';
-            loadBtn.style.minWidth = 'auto';
-            loadBtn.innerHTML = '<span class="label-large">Załaduj</span>';
-            
-            loadBtn.onclick = () => {
-                fetch(`assets/additional_tests/${item.file}`)
-                    .then(res => {
-                        if (!res.ok) throw new Error("Błąd podczas pobierania testu");
-                        return res.text();
-                    })
-                    .then(text => {
-                        testTitle = item.title;
-                        const parsed = parseQuestions(text);
-                        if (parsed.length > 0) {
-                            saveTest(testTitle, parsed);
-                            showToast(`Pomyślnie załadowano test: ${testTitle}`);
-                        } else {
-                            showToast("Plik testu jest pusty lub niepoprawny.");
-                        }
-                    })
-                    .catch(err => {
-                        console.error(err);
-                        showToast("Wystąpił błąd podczas ładowania testu.");
-                    });
-            };
-            
-            row.appendChild(info);
-            row.appendChild(loadBtn);
-            secretTestsList.appendChild(row);
-        });
+        secretTestsList.innerHTML = '<p class="body-medium opacity-medium">Ładowanie testów...</p>';
+        fetch('assets/additional_tests/manifest.json')
+            .then(res => {
+                if (!res.ok) throw new Error("Nie można pobrać listy");
+                return res.json();
+            })
+            .then(data => {
+                secretTestsList.innerHTML = '';
+                if (data.length === 0) {
+                    secretTestsList.innerHTML = '<p class="body-medium opacity-medium">Brak dostępnych testów.</p>';
+                    return;
+                }
+                data.forEach(item => {
+                    const row = document.createElement('div');
+                    row.className = 'setting-item';
+                    
+                    const info = document.createElement('div');
+                    info.className = 'setting-info';
+                    const titleLabel = document.createElement('span');
+                    titleLabel.className = 'setting-label';
+                    titleLabel.textContent = item.title;
+                    info.appendChild(titleLabel);
+                    
+                    const loadBtn = document.createElement('button');
+                    loadBtn.className = 'button filled-button';
+                    loadBtn.style.minWidth = 'auto';
+                    loadBtn.innerHTML = '<span class="label-large">Załaduj</span>';
+                    
+                    loadBtn.onclick = () => {
+                        fetch(`assets/additional_tests/${item.file}`)
+                            .then(res => {
+                                if (!res.ok) throw new Error("Błąd podczas pobierania testu");
+                                return res.text();
+                            })
+                            .then(text => {
+                                testTitle = item.title;
+                                const parsed = parseQuestions(text);
+                                if (parsed.length > 0) {
+                                    saveTest(testTitle, parsed);
+                                    showToast(`Pomyślnie załadowano test: ${testTitle}`);
+                                } else {
+                                    showToast("Plik testu jest pusty lub niepoprawny.");
+                                }
+                            })
+                            .catch(err => {
+                                console.error(err);
+                                showToast("Wystąpił błąd podczas ładowania testu.");
+                            });
+                    };
+                    
+                    row.appendChild(info);
+                    row.appendChild(loadBtn);
+                    secretTestsList.appendChild(row);
+                });
+            })
+            .catch(err => {
+                console.error(err);
+                secretTestsList.innerHTML = '<p class="body-medium opacity-medium">Błąd ładowania testów.</p>';
+            });
     }
 
     const settingsDialog = document.getElementById('settings-dialog');
