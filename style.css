@@ -1018,8 +1018,8 @@ dialog.closing::backdrop {
 }
 
 .toast {
-    background-color: var(--md-sys-color-inverse-surface);
-    color: var(--md-sys-color-inverse-on-surface);
+    background-color: var(--md-sys-color-on-surface);
+    color: var(--md-sys-color-surface);
     padding: 12px 24px;
     border-radius: 24px;
     font-family: 'Noto Sans', sans-serif;
