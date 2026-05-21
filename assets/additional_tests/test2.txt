@@ -1,0 +1,31 @@
+$ Legislacja administracyjna
+
+? Aktem normatywnym jest akt prawny mający charakter:
+- indywidualny
++ generalny
+- konkretny
++ abstrakcyjny
+
+? Rozporządzenia są wydawane:
+- przez organy wskazane w ustawach
++ na podstawie upoważnienia zawartego w Konstytucji
++ w celu wykonania ustawy
+- w zakresie spraw przekazanych do uregulowania przez Radę Ministrów
+
+? Akty prawa wewnętrznego:
+- obowiązują tylko organy wydające te akty
+- są wydawane wyłącznie przez organy administracji państwowej
++ nie mogą stanowić podstawy decyzji wobec obywateli
++ podlegają kontroli co do ich zgodności z powszechnie obowiązującym prawem
+
+? Akty prawa miejscowego w ramach administracji rządowej są stanowione przez:
++ wojewodę
+- organy zespolonej administracji rządowej
++ organy niezespolonej administracji rządowej
+- sejmik województwa
+
+? Dla organów gminy przyjmujących akty prawa miejscowego „Zasady techniki prawodawczej” są:
+- niewiążącymi zaleceniami
++ wiążące prawnie
+- wiążące prawnie, jeśli tak postanowi organ nadzoru
+- wiążące prawnie, jeśli określono to w statucie gminy
