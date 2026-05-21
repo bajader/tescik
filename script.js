@@ -301,9 +301,32 @@ document.addEventListener('DOMContentLoaded', () => {
     const aboutDialog = document.getElementById('about-dialog');
     const aboutBtn = document.getElementById('about-btn');
     const closeAboutBtn = document.getElementById('close-about-btn');
+    const cloudEggBtn = document.getElementById('cloud-egg-btn');
+    const aboutAppLogo = document.getElementById('about-app-logo');
+    const secretTestsDialog = document.getElementById('secret-tests-dialog');
+    const closeSecretTestsBtn = document.getElementById('close-secret-tests-btn');
+    const secretTestsList = document.getElementById('secret-tests-list');
+
+    let logoClickCount = 0;
+    if (cloudEggBtn && localStorage.getItem('cloudEggUnlocked') === 'true') {
+        cloudEggBtn.classList.remove('hidden');
+    }
+
+    if (aboutAppLogo) {
+        aboutAppLogo.addEventListener('click', () => {
+            logoClickCount++;
+            if (logoClickCount === 10) {
+                if (cloudEggBtn) {
+                    cloudEggBtn.classList.remove('hidden');
+                }
+                localStorage.setItem('cloudEggUnlocked', 'true');
+            }
+        });
+    }
 
     if (aboutBtn && aboutDialog) {
         aboutBtn.addEventListener('click', () => {
+            logoClickCount = 0;
             aboutDialog.showModal();
         });
 
@@ -314,6 +337,86 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         setupDialogClickOutside(aboutDialog);
+    }
+
+    if (cloudEggBtn) {
+        cloudEggBtn.addEventListener('click', () => {
+            if (secretTestsDialog) {
+                secretTestsDialog.showModal();
+                loadAdditionalTestsList();
+            }
+        });
+    }
+
+    if (closeSecretTestsBtn) {
+        closeSecretTestsBtn.addEventListener('click', () => {
+            closeDialog(secretTestsDialog);
+        });
+    }
+
+    if (secretTestsDialog) setupDialogClickOutside(secretTestsDialog);
+
+    function loadAdditionalTestsList() {
+        if (!secretTestsList) return;
+        secretTestsList.innerHTML = '<p class="body-medium opacity-medium">Ładowanie testów...</p>';
+        fetch('assets/additional_tests/manifest.json')
+            .then(res => {
+                if (!res.ok) throw new Error("Nie można pobrać listy");
+                return res.json();
+            })
+            .then(data => {
+                secretTestsList.innerHTML = '';
+                if (data.length === 0) {
+                    secretTestsList.innerHTML = '<p class="body-medium opacity-medium">Brak dostępnych testów.</p>';
+                    return;
+                }
+                data.forEach(item => {
+                    const row = document.createElement('div');
+                    row.className = 'setting-item';
+                    
+                    const info = document.createElement('div');
+                    info.className = 'setting-info';
+                    const titleLabel = document.createElement('span');
+                    titleLabel.className = 'setting-label';
+                    titleLabel.textContent = item.title;
+                    info.appendChild(titleLabel);
+                    
+                    const loadBtn = document.createElement('button');
+                    loadBtn.className = 'button filled-button';
+                    loadBtn.style.minWidth = 'auto';
+                    loadBtn.innerHTML = '<span class="label-large">Załaduj</span>';
+                    
+                    loadBtn.onclick = () => {
+                        fetch(`assets/additional_tests/${item.file}`)
+                            .then(res => {
+                                if (!res.ok) throw new Error("Błąd podczas pobierania testu");
+                                return res.text();
+                            })
+                            .then(text => {
+                                testTitle = item.title;
+                                const parsed = parseQuestions(text);
+                                if (parsed.length > 0) {
+                                    saveTest(testTitle, parsed);
+                                    alert(`Pomyślnie załadowano test: ${testTitle}`);
+                                } else {
+                                    alert("Plik testu jest pusty lub niepoprawny.");
+                                }
+                            })
+                            .catch(err => {
+                                console.error(err);
+                                alert("Wystąpił błąd podczas ładowania testu.");
+                            });
+                    };
+                    
+                    row.appendChild(info);
+                    row.appendChild(loadBtn);
+                    secretTestsList.appendChild(row);
+                });
+            })
+            .catch(err => {
+                console.error(err);
+                secretTestsList.innerHTML = '<p class="body-medium opacity-medium">Błąd ładowania testów.</p>';
+            });
     }
 
     const settingsDialog = document.getElementById('settings-dialog');

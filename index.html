@@ -35,6 +35,9 @@
             <button id="quiz-restart-btn" class="icon-button hidden" title="Restart testu">
                 <span class="material-symbols-outlined">refresh</span>
             </button>
+            <button id="cloud-egg-btn" class="icon-button hidden" title="Tajemnicza chmurka">
+                <span class="material-symbols-outlined">cloud</span>
+            </button>
             <button id="about-btn" class="icon-button" title="O aplikacji">
                 <span class="material-symbols-outlined">info</span>
             </button>
@@ -156,7 +159,7 @@
 
             <!-- App Info -->
             <div class="about-app-info mb-16">
-                <img src="assets/tescik_icon.png" alt="Teścik" class="about-app-icon">
+                <img id="about-app-logo" src="assets/tescik_icon.png" alt="Teścik" class="about-app-icon">
                 <p class="body-medium">
                     <strong>Teścik</strong> v1.2.5<br>
                     <span class="opacity-medium">Twoje centrum nauki</span>
@@ -221,6 +224,22 @@
             </div>
 
 
+        </div>
+    </dialog>
+
+    <!-- Secret Tests Dialog -->
+    <dialog id="secret-tests-dialog">
+        <div class="dialog-content">
+            <div class="dialog-header">
+                <h3 class="headline-small">Dostępne testy</h3>
+                <button id="close-secret-tests-btn" class="icon-button">
+                    <span class="material-symbols-outlined">close</span>
+                </button>
+            </div>
+            
+            <div id="secret-tests-list" class="settings-list mt-8">
+                <p class="body-medium opacity-medium">Ładowanie testów...</p>
+            </div>
         </div>
     </dialog>
 
