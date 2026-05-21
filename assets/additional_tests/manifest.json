@@ -6,5 +6,9 @@
     {
         "title": "Legislacja administracyjna",
         "file": "test2.txt"
+    },
+    {
+        "title": "Fundusze UE",
+        "file": "test3.txt"
     }
 ]
