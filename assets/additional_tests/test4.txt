@@ -1,0 +1,307 @@
+$ Wprowadzenie do nauki o bezpieczeństwie informacji i systemów teleinformatycznych
+
+? Definicja cyberbezpieczeństwa obejmuje odporność systemów na działania naruszające przetwarzane dane w zakresie:
++ poufności, integralności, dostępności i autentyczności
+- jawności, kompletności i identyfikowalności
+- szybkości, wydajności i bezawaryjności
+- stabilności, tajności i skalowalności
+
+? Na czym polega atak typu ransomware?
+- na uniemożliwieniu dostępu do usług poprzez przeciążenie systemu
++ na użyciu złośliwego oprogramowania blokującego dostęp do danych i żądaniu okupu
+- na podszywaniu się pod zaufane podmioty w celu wyłudzenia danych
+- na manipulacji psychologicznej w celu uzyskania poufnych informacji
+
+? Atak polegający na uniemożliwieniu dostępu do usług poprzez przeciążenie systemu to:
+- phishing
++ DDoS
+- ransomware
+- inżynieria społeczna
+
+? Czym charakteryzuje się phishing?
+- jest to złośliwe oprogramowanie blokujące dostęp do danych, żądające okupu
++ polega na podszywaniu się pod zaufane podmioty w celu wyłudzenia danych
+- polega na uniemożliwieniu dostępu do usług poprzez przeciążenie systemu
+- jest to fizyczny atak na infrastrukturę kluczową
+
+? Manipulacja psychologiczna w celu uzyskania poufnych informacji nazywana jest:
++ inżynierią społeczną
+- atakiem DDoS
+- atakiem ransomware
+- phishingiem
+
+? Czym zajmuje się Departament Cyberbezpieczeństwa w Ministerstwie Cyfryzacji?
++ koordynowaniem prac związanych z Krajowym Systemem Cyberbezpieczeństwa i Strategią Cyberbezpieczeństwa RP
++ przygotowaniem programów edukacyjnych na rzecz poszerzania wiedzy z zakresu cyberbezpieczeństwa
++ koordynowaniem nadzoru Ministra nad NASK-PIB
+- ściganiem przestępstw komputerowych w internecie na zlecenie prokuratury
+
+? Który akt UE jako pierwszy ustanowił wspólne ramy ochrony sieci i systemów teleinformatycznych?
++ NIS1
+- NIS2
+- DORA
+- CRA
+
+? Jakie zmiany wprowadza dyrektywa NIS2 w porównaniu do NIS1?
++ rozszerza zakres podmiotowy, obejmując więcej sektorów gospodarki
++ wprowadza większe obowiązki dotyczące bezpieczeństwa, zarządzania ryzykiem i gotowości do reagowania na incydenty
+- zwalnia operatorów usług kluczowych z obowiązku zgłaszania incydentów
+- dotyczy wyłącznie dostawców usług płatniczych i firm fintech
+
+? Co wprowadza rozporządzenie CRA (Cyber Resilience Act)?
++ obowiązek "cyberbezpieczeństwa przez projekt"
++ odpowiedzialność producentów za cały cykl życia produktu
+- przepisy skierowane tylko do podmiotów sektora finansowego
+- zwalnia z odpowiedzialności producentów urządzeń łączących się z siecią
+
+? Jakich podmiotów dotyczy dyrektywa DORA (Digital Operational Resilience Act)?
+- urzędów wojewódzkich i marszałkowskich
+- wszystkich dostawców usług wyszukiwania internetowego
++ wszystkich podmiotów sektora finansowego (np. banków, firm ubezpieczeniowych, fintechów)
++ dostawców usług ICT świadczących usługi dla instytucji finansowych
+
+? Jakie zadania realizuje Cybersecurity Act?
++ wzmacnia mandat Agencji ds. Cyberbezpieczeństwa (ENISA)
++ tworzy jednolity unijny system oceny cyberbezpieczeństwa dla produktów i usług IT
+- ogranicza możliwości państw członkowskich w zakresie oceny bezpieczeństwa
+- przekształca ENISA w jedyny w Europie podmiot certyfikujący aplikacje bankowe
+
+? Jakie uprawnienia otrzymała ENISA w związku z Cybersecurity Act?
++ prawo szkolenia organów państw członkowskich i przeprowadzania z nimi ćwiczeń
+- prawo nakładania wielomilionowych kar na operatorów usług kluczowych
+- nadzór nad polskim departamentem cyberbezpieczeństwa
+- nadawanie klauzul tajności dokumentom europejskim
+
+? Jaki jest główny cel Krajowego Systemu Cyberbezpieczeństwa (KSC)?
++ zapewnienie wysokiego poziomu bezpieczeństwa systemów informacyjnych
++ ochrona przed zagrożeniami i skuteczne reagowanie na incydenty
+- ułatwienie inwigilacji obywateli przez organy ścigania
+- wdrażanie obowiązkowych płatnych certyfikatów dla obywateli
+
+? Jakie podmioty m.in. wchodzą w skład Krajowego Systemu Cyberbezpieczeństwa?
++ operatorzy usług kluczowych i dostawcy usług cyfrowych
++ CSIRT MON, CSIRT NASK, CSIRT GOV
++ Pełnomocnik Rządu ds. Cyberbezpieczeństwa
+- wszystkie stowarzyszenia działające w branży IT
+
+? Co oznacza skrót CSIRT?
+- Centralny System Informacji Rządu Terenowego
++ zespół reagowania na incydenty komputerowe (Computer Security Incident Response Team)
+- Certyfikowany Standard Infrastruktury Rejestrów Tajnych
+- Certyfikat Systemów Informatycznych Reagujących Terminowo
+
+? Która instytucja prowadzi zespół CSIRT GOV?
+- Ministerstwo Obrony Narodowej
+- Naukowa i Akademicka Sieć Komputerowa
++ Agencja Bezpieczeństwa Wewnętrznego
+- Ministerstwo Spraw Wewnętrznych i Administracji
+
+? Jakie są obowiązki CSIRT wymienione w ustawie o KSC?
++ monitorowanie zagrożeń i analiza incydentów
++ koordynacja działań naprawczych
+- nakładanie kar na użytkowników internetu
+- certyfikowanie zagranicznego oprogramowania biurowego
+
+? Zdarzenie, które ma lub może mieć niekorzystny wpływ na cyberbezpieczeństwo to:
++ incydent
+- awaria sprzętowa
+- planowa rekonfiguracja sieci
+- błąd w kodzie źródłowym
+
+? Kiedy incydent uznaje się za "zwykły" (Poziom I)?
++ gdy nie ma konieczności jego zgłaszania do CSIRT
+- gdy dotyczy dostawców usług cyfrowych
+- gdy zagraża życiu i zdrowiu ludzi
+- gdy powoduje przerwanie ciągłości świadczenia usługi kluczowej
+
+? Jak klasyfikowany jest incydent, który powoduje lub może powodować poważne obniżenie jakości / przerwanie ciągłości świadczenia usługi kluczowej?
+- jako incydent istotny
++ jako incydent poważny (Poziom II)
+- jako incydent zwykły
+- jako incydent krytyczny
+
+? W jakim czasie podmiot musi zgłosić incydent poziomu II (poważny)?
++ w ciągu 24 godzin
+- w ciągu 12 godzin
+- natychmiast, w ciągu 1 godziny
+- w terminie do 7 dni roboczych
+
+? Czego dotyczy "incydent istotny"?
+- podmiotów publicznych i ich zadań
+- operatorów usług kluczowych z sektora energetycznego
++ dostawców usług cyfrowych
+- wszystkich obywateli korzystających z e-usług
+
+? "Incydent krytyczny" to incydent:
++ skutkujący znaczną szkodą dla bezpieczeństwa, porządku publicznego lub interesów międzynarodowych
++ nadawany tej randze wyłącznie przez CSIRT po dokonaniu obowiązkowego zgłoszenia
+- który nie wymaga zgłoszenia do jakichkolwiek służb publicznych
+- klasyfikowany jako Poziom I w ustawie o KSC
+
+? Czym charakteryzuje się usługa kluczowa zgodnie z ustawą o KSC?
++ ma kluczowe znaczenie dla utrzymania krytycznej działalności społecznej lub gospodarczej
++ jest wymieniona w wykazie usług kluczowych i należy do sektorów takich jak m.in. energetyka, transport, finanse czy ochrona zdrowia
+- dotyczy wyłącznie internetowych platform handlowych i wyszukiwarek
+- jest zwolniona z nadzoru Ministerstwa Cyfryzacji
+
+? Jakie wymogi na gruncie KSC musi spełniać podmiot, by zostać uznanym za dostawcę usługi cyfrowej podlegającego ustawie?
++ nie może być mikroprzedsiębiorcą ani małym przedsiębiorcą (zatrudnia powyżej 50 pracowników)
++ musi przekraczać próg rocznego obrotu powyżej 10 mln euro
++ musi posiadać siedzibę, zarząd lub przedstawiciela w Polsce
+- musi uzyskać akredytację SKW na przetwarzanie informacji niejawnych
+
+? Przykłady usług cyfrowych na gruncie ustawy o KSC to:
++ internetowa platforma handlowa
++ przetwarzanie w chmurze
++ wyszukiwarka internetowa
+- zaopatrzenie w wodę pitną i jej dystrybucja
+
+? Jakie są obowiązki podmiotów publicznych w ramach KSC?
++ zapewnienie bezpieczeństwa systemów informacyjnych
++ zgłaszanie incydentów
++ współpraca z CSIRT i organami właściwymi
+- wydawanie powszechnych certyfikatów dla małych przedsiębiorstw
+
+? Kto koordynuje działania w zakresie cyberbezpieczeństwa na poziomie krajowym i przedkłada Radzie Ministrów coroczne sprawozdanie?
+- Dyrektor Naukowej i Akademickiej Sieci Komputerowej (NASK)
++ Pełnomocnik Rządu ds. Cyberbezpieczeństwa
+- Szef Agencji Bezpieczeństwa Wewnętrznego
+- Przewodniczący Kolegium ds. cyberbezpieczeństwa
+
+? Jak kształtuje się relacja Pełnomocnika ds. cyberbezpieczeństwa z Ministrem Cyfryzacji?
++ współpracuje on z Ministrem Cyfryzacji, który nadzoruje jego działania
+- podlega wyłącznie kontroli ze strony Ministerstwa Obrony Narodowej
+- jego działania są całkowicie niezależne od jakichkolwiek ministerstw
+- podlega pod ENISA i raportuje do niej swoje działania
+
+? Kto wchodzi w skład Kolegium ds. cyberbezpieczeństwa (jako członkowie)?
++ Prezes Rady Ministrów (jako przewodniczący) oraz Pełnomocnik
++ wskazani ministrowie: spraw wewnętrznych, informatyzacji, obrony narodowej, spraw zagranicznych, służby specjalne
++ szef KPRM i szef BBN
+- Dyrektorzy wszystkich europejskich odpowiedników CSIRT
+
+? Jaką rolę pełni Kolegium ds. cyberbezpieczeństwa?
++ jest to organ doradczy i opiniujący
+- jest to ostateczna instancja sądowa w sprawach ataków hakerskich
+- wydaje bezpośrednio decyzje administracyjne nakładające kary
+- jest organem legislacyjnym uchwalającym ustawy o bezpieczeństwie
+
+? Które z poniższych są przykładami informacji publicznej?
++ informacje o projektach aktów, planach, programach i strategiach (polityka wewnętrzna)
++ informacje o statusie prawnym podmiotów, naborach, rejestrach i archiwach
++ dokumenty urzędowe, akty administracyjne oraz dane o długu publicznym
+- tajne plany operacyjne jednostek antyterrorystycznych
+
+? Jakim urzędowym publikatorem teleinformatycznym udostępnia się powszechnie informacje publiczne?
+- Centralną Baza Danych o Podmiotach
++ Biuletynem Informacji Publicznej (BIP)
+- Narodowym Archiwum Ekranowym
+- Rejestrem Krajowego Systemu Cyberbezpieczeństwa
+
+? W jakim czasie udostępniana jest informacja publiczna na wniosek?
+- w terminie 30 dni z możliwością przedłużenia do pół roku
++ bez zbędnej zwłoki, nie później niż w terminie 14 dni od złożenia wniosku
+- natychmiastowo, w ciągu 24 godzin od odbioru wniosku przez system
+- do 7 dni roboczych, jeśli informacja dotyczy przetargów
+
+? Informacje niejawne to takie dane, których nieuprawnione ujawnienie mogłoby:
++ wyrządzić szkodę dla interesów RP
++ naruszyć bezpieczeństwo państwa lub jego sojuszników
++ zagrozić porządkowi konstytucyjnemu
+- wpłynąć negatywnie na wizerunek urzędu w lokalnej prasie
+
+? Kogo obejmują obowiązki wynikające z ustawy o ochronie informacji niejawnych?
++ organy administracji rządowej oraz służby mundurowe
++ jednostki wykonujące zadania publiczne
++ kontrahentów wojskowych i podmioty prywatne mające dostęp do tych informacji
+- wyłącznie obywateli niezwiązanych z administracją państwową
+
+? Czym jest przetwarzanie informacji niejawnych w świetle prawa?
++ pozyskiwaniem, gromadzeniem, przechowywaniem, zmienianiem, udostępnianiem i niszczeniem takich informacji
+- tylko i wyłącznie ich niszczeniem za pomocą certyfikowanych niszczarek
+- wyłącznie ich udostępnianiem obywatelom w BIP w wersji ocenzurowanej
+- procesem tworzenia nowych klasyfikacji dokumentów
+
+? Przetwarzanie informacji niejawnych może odbywać się:
++ tylko przez osoby posiadające odpowiednie poświadczenie bezpieczeństwa
++ w środowisku systemów teleinformatycznych z akredytacją bezpieczeństwa
+- przez każdego pracownika państwowego, który ukończy 18 lat
+- w dowolnym systemie chmurowym wybranym przez kierownika jednostki
+
+? Jak klasyfikuje się informacje niejawne w Polsce (od najwyższej klauzuli do najniższej)?
+- krytyczne, poważne, istotne, zwykłe
++ ściśle tajne, tajne, poufne, zastrzeżone
+- specjalnego znaczenia, poufne, publiczne
+- państwowe, służbowe, prywatne
+
+? Jakie funkcje pełni ABW (Agencja Bezpieczeństwa Wewnętrznego) w systemie ochrony informacji niejawnych?
++ prowadzi kontrolę ochrony informacji niejawnych
++ wydaje poświadczenia bezpieczeństwa osobom i firmom cywilnym
++ nadzoruje systemy teleinformatyczne
+- obsługuje wszystkie incydenty w podmiotach edukacyjnych typu NASK
+
+? Czym różnią się funkcje SKW od funkcji ABW w ochronie informacji niejawnych?
++ SKW realizuje analogiczne zadania, ale w sferze wojskowej i dla MON
+- SKW zajmuje się wyłącznie firmami cywilnymi
+- SKW ma uprawnienia wyłącznie na terenie innych państw członkowskich UE
+- SKW nie nadzoruje systemów teleinformatycznych, tylko pracowników fizycznych
+
+? W stosunku do jakich informacji zazwyczaj wystarcza pisemna zgoda kierownika i szkolenie zamiast pełnego postępowania sprawdzającego?
++ w odniesieniu do klauzuli "zastrzeżone"
+- w odniesieniu do klauzuli "ściśle tajne"
+- dla wszystkich funkcjonariuszy służb operacyjnych
+- wobec międzynarodowych informacji tajnych
+
+? Kiedy wymagane jest poszerzone postępowanie sprawdzające dla kandydata?
++ w przypadku chęci uzyskania dostępu do informacji tajnych i ściśle tajnych
++ wobec funkcjonariuszy służb
+- zawsze, gdy osoba zatrudnia się w urzędzie gminy na jakimkolwiek stanowisku
+- gdy wymaga tego jawny BIP
+
+? Jakie elementy sprawdzane są m.in. podczas prowadzenia kontrolnych postępowań (poświadczenia bezpieczeństwa)?
++ wątpliwości wobec działalności szpiegowskiej, terrorystycznej lub prób werbunku przez obce służby
++ wystąpienia powiązań z organizacjami propagującymi ekstremizmy (np. faszystowskie, komunistyczne)
++ ryzyko podatności na szantaż i zatajanie prawdy w ankiecie
+- historia przeglądarki internetowej i wpisów w wyszukiwarkach za ostatnie 10 lat
+
+? Dodatkowe kwestie weryfikowane podczas poszerzonego postępowania sprawdzającego to m.in.:
++ relacja poziomu życia do deklarowanych dochodów
++ choroby psychiczne lub inne zaburzenia psychiczne
++ ewentualne uzależnienia od alkoholu lub substancji
+- wyniki na świadectwie maturalnym
+
+? Akredytacja bezpieczeństwa teleinformatycznego to:
+- jednorazowy audyt zewnętrznej firmy dla operatorów usług kluczowych
++ zatwierdzenie systemu teleinformatycznego do przetwarzania informacji niejawnych przez odpowiednie organy (ABW, SKW lub Pełnomocnika ds. OIN)
+- test weryfikujący umiejętności pracowników urzędu
+- licencja na korzystanie z zachodnich systemów operacyjnych w wojsku
+
+? Co jest wymagane, by system mógł uzyskać akredytację bezpieczeństwa?
++ pozytywna ocena ochrony fizycznej i organizacyjnej
++ wdrożenie właściwych mechanizmów kontroli dostępu i szyfrowania
+- zainstalowanie minimum trzech różnych darmowych programów antywirusowych
+- stworzenie profilu publicznego systemu na platformach społecznościowych
+
+? Zasada neutralności technologicznej dla podmiotów publicznych oznacza, że:
+- państwo ma obowiązek narzucać jedną technologię wszystkim urzędom
++ państwo nie może faworyzować konkretnych technologii, producentów ani rozwiązań
+- podmioty publiczne nie mogą korzystać z oprogramowania cyfrowego
+- każda innowacja musi przejść głosowanie w Sejmie
+
+? Ustawa o informatyzacji podmiotów publicznych dotyczy m.in.:
++ jednostek samorządu terytorialnego oraz urzędów centralnych
++ sądów, ZUS, KRUS, NFZ
++ uczelni publicznych oraz firm wykonujących zadania publiczne na zlecenie
+- osób fizycznych prowadzących jednoosobową działalność gospodarczą bez związku z państwem
+
+? Jakie działania są zalecane w rekomendacjach Ministerstwa Cyfryzacji w ramach minimalnych wymagań bezpieczeństwa?
++ posiadanie polityki bezpieczeństwa informacji oraz aktualnego oprogramowania i systemów
++ robienie kopii zapasowych, segmentacja sieci oraz szyfrowanie danych
++ wdrażanie wieloskładnikowego uwierzytelniania, reagowanie na incydenty i testy penetracyjne
+- zwolnienie całego personelu informatycznego i oparcie systemów o AI
+
+? Co zakłada Strategia Cyberbezpieczeństwa RP na lata 2019-2024 (zaktualizowana w 2023 r.)?
++ podniesienie odporności sektora publicznego i prywatnego
++ edukację obywateli i służb
++ rozwój zdolności do wykrywania incydentów, reagowania i współpracę międzynarodową
+- powrót do korzystania z wyłącznie analogowych środków przekazu danych strategicznych
