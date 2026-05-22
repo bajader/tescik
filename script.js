@@ -401,7 +401,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
                 data.forEach(item => {
                     const row = document.createElement('div');
-                    row.className = 'setting-item';
+                    row.className = 'secret-test-item';
                     
                     const info = document.createElement('div');
                     info.className = 'setting-info';
