@@ -1,0 +1,355 @@
+$ Wprowadzenie do nauki o bezpieczeństwie informacji i systemów teleinformatycznych
+
+? Cyberbezpieczeństwo to odporność systemów informacyjnych na działania naruszające:
+- Wyłącznie dostępność i integralność danych
+- Wyłącznie poufność danych
++ Poufność, integralność, dostępność i autentyczność danych
+- Zgodność danych z przepisami podatkowymi
+
+? Cyberbezpieczeństwo dotyczy również usług oferowanych przez systemy, a nie tylko samych przetwarzanych danych.
++ Prawda
+- Fałsz
+
+? W Ministerstwie Cyfryzacji, jaki departament zajmuje się cyberbezpieczeństwem?
+- Departament Ochrony Danych
+- Departament Innowacji Cyfrowych
++ Departament cyberbezpieczeństwa
+- Departament Administracji Państwowej
+
+? Który z poniższych systemów NIE jest koordynowany przez Departament cyberbezpieczeństwa?
+- Krajowy System Cyberbezpieczeństwa (KSC)
+- Krajowy System Certyfikacji Cyberbezpieczeństwa
++ Centralna Ewidencja Pojazdów i Kierowców (CEPiK)
+- Strategia Cyberbezpieczeństwa RP
+
+? Koordynowaniem Programu Współpracy w Cyberbezpieczeństwie (PWCyber) zajmuje się wyłącznie NASK-PIB, z pominięciem Departamentu cyberbezpieczeństwa.
+- Prawda
++ Fałsz
+
+? Kto koordynuje nadzór Ministra nad NASK-PIB?
+- Agencja Bezpieczeństwa Wewnętrznego
+- Dowództwo Wojsk Obrony Cyberprzestrzeni
++ Departament cyberbezpieczeństwa
+- Urząd Ochrony Konkurencji i Konsumentów
+
+? Do głównych celów Krajowego Systemu Cyberbezpieczeństwa (KSC) należy:
+- Edukowanie najmłodszych użytkowników mediów społecznościowych
++ Zapewnienie wysokiego poziomu bezpieczeństwa, ochrona przed zagrożeniami i skuteczne reagowanie na incydenty
+- Nakładanie kar finansowych na wszystkie firmy informatyczne
+- Produkcja państwowego oprogramowania antywirusowego
+
+? W ramach Krajowego Systemu Cyberbezpieczeństwa, sektor "Energetyka" jest zaliczany do:
+- Podmiotów wspierających
++ Podmiotów kluczowych
+- Podmiotów ważnych
+- Podmiotów zwolnionych z ustawy
+
+? Który z poniższych sektorów należy do podmiotów kluczowych KSC?
+- Usługi pocztowe i kurierskie
+- Badania naukowe
++ Ochrona zdrowia (szpitale, duże przychodnie, laboratoria)
+- Gospodarowanie odpadami
+
+? Dostawcy chmury, centrów danych i usług zaufania wchodzą w skład infrastruktury cyfrowej, będącej podmiotem kluczowym KSC.
++ Prawda
+- Fałsz
+
+? W ramach KSC sektor transportu (lotniczy, kolejowy, wodny, drogowy) jest sklasyfikowany jako:
++ Podmiot kluczowy
+- Podmiot ważny
+- Dostawca usług cyfrowych
+- Podmiot wspierający
+
+? Czy dostawcy usług zarządzanych (B2B IT) należą do podmiotów kluczowych KSC?
++ Tak
+- Nie, są jedynie podmiotami ważnymi
+- Nie, ustawa KSC w ogóle ich nie dotyczy
+- Nie, należą do administracji rządowej
+
+? Do podmiotów ważnych (nie kluczowych) na gruncie ustawy o KSC zaliczamy:
+- Bankowość i rynki finansowe
+- Przestrzeń kosmiczną
++ Produkcję i dystrybucję żywności
+- Dostawców wody pitnej
+
+? Wyszukiwarki, serwisy społecznościowe oraz platformy handlowe (dostawcy usług cyfrowych) mają w KSC status podmiotów ważnych.
++ Prawda
+- Fałsz
+
+? Do jakiej grupy w KSC należą badania naukowe oraz produkcja chemikaliów?
+- Podmioty kluczowe
++ Podmioty ważne
+- CSIRT
+- Urzędy centralne
+
+? Co oznacza skrót CSIRT?
+- Centrum Strategicznych Informacji i Reagowania Technologicznego
++ Zespół reagowania na incydenty komputerowe (Computer Security Incident Response Team)
+- Certyfikowany System Informacji i Rejestrów Teleinformatycznych
+- Zespół Analizy Danych Osobowych
+
+? Ile CSIRT-ów poziomu krajowego przewiduje ustawa o KSC?
+- Jeden
+- Dwa
++ Trzy (MON, NASK, GOV)
+- Cztery
+
+? Zespół CSIRT GOV działa w strukturach:
+- Ministerstwa Obrony Narodowej
+- Naukowej i Akademickiej Sieci Komputerowej
++ Agencji Bezpieczeństwa Wewnętrznego
+- Ministerstwa Spraw Zagranicznych
+
+? Za zespół CSIRT NASK odpowiada Naukowa i Akademicka Sieć Komputerowa.
++ Prawda
+- Fałsz
+
+? Co należy do głównych obowiązków zespołów CSIRT?
+- Konfiskata sprzętu komputerowego po incydentach
++ Monitorowanie zagrożeń, analiza incydentów i koordynacja działań naprawczych
+- Wydawanie dowodów osobistych z warstwą elektroniczną
+- Szkolenie wszystkich obywateli z obsługi komputera
+
+? Kto pełni funkcję Pełnomocnika ds. cyberbezpieczeństwa?
+- Szef ABW
+- Minister Obrony Narodowej
+- Prezes Rady Ministrów
++ Minister Cyfryzacji
+
+? Pełnomocnik ds. cyberbezpieczeństwa przewodniczy:
+- Komisji Nadzoru Finansowego
++ Kolegium ds. Cyberbezpieczeństwa (PCOC)
+- Zespołom CSIRT
+- Państwowej Komisji Wyborczej
+
+? Pełnomocnik ds. cyberbezpieczeństwa nie ma uprawnień do wydawania oficjalnych, wiążących rekomendacji dla podmiotów KSC.
+- Prawda
++ Fałsz
+
+? Kto ma prawo wydać nakaz natychmiastowej aktualizacji dziurawego oprogramowania w jednostkach KSC?
+- Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni
+- Urząd Ochrony Danych Osobowych
++ Pełnomocnik ds. cyberbezpieczeństwa
+- Szef SKW
+
+? Do czyich zadań należy koordynacja współpracy z krajowymi CSIRT-ami oraz na arenie międzynarodowej?
++ Pełnomocnika ds. cyberbezpieczeństwa
+- Prezydenta RP
+- Dyrektora NASK
+- Rzecznika Praw Obywatelskich
+
+? Jak określa się wszelkie dane o działalności organów władzy dysponujących państwowym/samorządowym majątkiem?
+- Informacja operacyjna
+- Informacja chroniona prawem
++ Informacja publiczna
+- Tajemnica państwowa
+
+? Co NIE jest przykładem informacji publicznej?
+- Kwoty wynagrodzeń i premii polityków
+- Wyniki oficjalnych kontroli sanepidu
++ Prywatna korespondencja pracowników urzędu
+- Protokoły z posiedzeń rady gminy
+
+? Rejestry umów zawieranych przez urzędy (np. na remonty) i wydatki z budżetu to w świetle prawa informacja publiczna.
++ Prawda
+- Fałsz
+
+? W jakim maksymalnym terminie udostępniana jest informacja publiczna od dnia złożenia wniosku (o ile nie ma zbędnej zwłoki)?
+- Do 7 dni
++ Do 14 dni
+- Do 30 dni
+- Do 60 dni
+
+? Co jest OPCJONALNYM elementem wniosku o dostęp do informacji publicznej?
+- Określenie informacji, której dotyczy wniosek
+- Określenie formy udostępnienia
++ Dane wnioskodawcy
+- Podpis kierownika jednostki udostępniającej
+
+? Obywatel chcący otrzymać informację publiczną, nie musi w standardowym wniosku podawać swoich danych osobowych.
++ Prawda
+- Fałsz
+
+? Informacje niejawne to dane, których nieuprawnione ujawnienie mogłoby m.in.:
++ Wyrządzić szkodę dla interesów RP, naruszyć bezpieczeństwo państwa lub zagrażać porządkowi konstytucyjnemu
+- Przynieść stratę finansową lokalnemu przedsiębiorstwu
+- Ujawnić prywatne dane wrażliwe polityków
+- Ograniczyć konkurencyjność na rynku zagranicznym
+
+? Podmioty prywatne nie mogą mieć dostępu do informacji niejawnych, nawet w ramach państwowych przetargów.
+- Prawda
++ Fałsz
+
+? Kogo, oprócz administracji rządowej i służb mundurowych, dotyczą obowiązki ustawy o ochronie informacji niejawnych?
+- Wszystkich użytkowników internetu w Polsce
+- Tylko i wyłącznie dyplomatów
++ Kontrahentów wojskowych, firm prywatnych z dostępem oraz jednostek wykonujących zadania publiczne
+- Wyłącznie zagranicznych koncernów
+
+? Jakie klauzule wchodzą w skład klasyfikacji informacji niejawnych?
+- Ważne, Tajne, Poufne
+- Ściśle tajne, Ograniczone, Poufne, Zastrzeżone
++ Ściśle tajne, Tajne, Poufne, Zastrzeżone
+- Tajne specjalnego znaczenia, Poufne, Służbowe
+
+? Która z klauzul jest w polskim systemie najniższą klauzulą dostępu?
+- Ściśle tajne
+- Poufne
++ Zastrzeżone
+- Tajne
+
+? W systemie ochrony informacji niejawnych, instytucją wiodącą wydającą poświadczenia w strefie CYWILNEJ jest:
++ ABW (Agencja Bezpieczeństwa Wewnętrznego)
+- Policja
+- CBA
+- SKW
+
+? Kto kontroluje ochronę informacji niejawnych i wydaje poświadczenia w obszarze WOJSKOWYM (dla MON)?
+- ABW
+- SOP
+- Żandarmeria Wojskowa
++ SKW (Służba Kontrwywiadu Wojskowego)
+
+? ABW nadzoruje cywilne systemy teleinformatyczne przetwarzające informacje niejawne.
++ Prawda
+- Fałsz
+
+? Jakie postępowanie z reguły uprawnia pracownika do zapoznania się z informacjami o klauzuli "Zastrzeżone"?
+- Obowiązkowe poszerzone badanie psychologiczne
++ Zazwyczaj wystarcza pisemna zgoda kierownika jednostki i szkolenie
+- Postępowanie z użyciem wariografu
+- Nie jest wymagana żadna procedura, dokumenty są jawne wewnątrz firmy
+
+? Dostęp do informacji z klauzulą "Poufne" zwykłego pracownika wiąże się ze zrealizowaniem:
++ Zwykłego postępowania sprawdzającego
+- Zgody Pełnomocnika ds. cyberbezpieczeństwa
+- Certyfikatu na szczeblu międzynarodowym
+- Postępowania dyscyplinarnego
+
+? Kiedy (przy informacji "Poufne") przeprowadza się POSZERZONE postępowanie sprawdzające?
+- Dla stażystów bez wyższego wykształcenia
++ Dla kierowników jednostek lub przy dostępie do poufnych informacji międzynarodowych
+- Gdy wniosek pochodzi z podmiotu niepaństwowego
+- Zawsze, bez wyjątków
+
+? Jakie postępowanie jest wymagane dla dostępu do informacji z klauzulami "Tajne" i "Ściśle tajne"?
+- Zwykłe postępowanie sprawdzające
++ Poszerzone postępowanie sprawdzające
+- Kontrola skarbowa
+- Zezwolenie prokuratorskie
+
+? Na poświadczeniu bezpieczeństwa dokumentu nie ma obowiązku wskazania klauzuli.
+- Prawda
++ Fałsz
+
+? Co służby badają podczas standardowego postępowania sprawdzającego?
+- Umiejętności posługiwania się bronią palną
++ Czy nie istnieją próby werbunku, kontakt z obcymi służbami lub ryzyko szantażu
+- Poprawność rozliczeń PIT z ostatnich 10 lat
+- Obecność długów w rejestrach dłużników
+
+? Który z elementów JEST weryfikowany w ramach STANDARDOWEGO postępowania sprawdzającego?
++ Powiązania z partiami/organizacjami propagującymi poglądy faszystowskie, nazistowskie lub komunistyczne
+- Nałogi i uzależnienia od substancji
+- Poziom życia w stosunku do oficjalnych dochodów
+- Zdrowie psychiczne kandydata
+
+? W zwykłym postępowaniu sprawdza się m.in. zatajanie prawdy w ankiecie bezpieczeństwa i historię niewłaściwego postępowania z informacjami niejawnymi.
++ Prawda
+- Fałsz
+
+? Co jest badane DODATKOWO (względem standardowego) podczas POSZERZONEGO postępowania sprawdzającego?
+- Podejrzenie działalności szpiegowskiej
+- Przestępczość pospolita
++ Finanse (poziom życia względem dochodów), zdrowie psychiczne i nałogi
+- Podatność na szantaż na podstawie życia prywatnego
+
+? Choroba psychiczna i inne zaburzenia sprawdzane są na etapie standardowego postępowania sprawdzającego.
+- Prawda
++ Fałsz
+
+? Kiedy służby badają kandydata pod kątem uzależnienia od alkoholu lub innych substancji?
+- Tylko u kierowników cywilnych
++ W ramach poszerzonego postępowania sprawdzającego
+- Podczas zwykłego postępowania sprawdzającego
+- Przed wydaniem zgody na dostęp do klauzuli "Zastrzeżone"
+
+? Postępowania kontrolne to procedury, które można prowadzić w uzasadnionych przypadkach (poza standardowymi postępowaniami sprawdzającymi).
++ Prawda
+- Fałsz
+
+? Czym charakteryzuje się zasada "Neutralności technologicznej" w ustawie o informatyzacji podmiotów publicznych?
+- Wymusza używanie sprzętu wyprodukowanego w Polsce
++ Oznacza, że państwo nie może faworyzować konkretnych technologii, producentów ani rozwiązań
+- Zabrania korzystania z otwartego oprogramowania (Open Source)
+- Pozwala instytucjom ignorować standardy bezpieczeństwa, jeśli technologie są tanie
+
+? Jaki jest główny cel zasady neutralności technologicznej dla podmiotów publicznych?
++ Wspieranie innowacyjności, interoperacyjności oraz swoboda wyboru rozwiązań
+- Zamrożenie rozwoju na starych, ale sprawdzonych rozwiązaniach
+- Obniżenie na stałe kosztów licencji na system Windows
+- Pełna zależność od jednego amerykańskiego giganta technologicznego
+
+? Według zasady neutralności technologicznej państwo powinno zmuszać samorządy do zakupu oprogramowania jednego określonego producenta.
+- Prawda
++ Fałsz
+
+? Jakie pojęcie w Strategii Cyberbezpieczeństwa RP dotyczy eliminacji dostawców sprzętu i usług wysokiego ryzyka (HRV) z kluczowych zamówień?
+- Rozbudowa NASK
++ Suwerenność technologiczna
+- Walka o ekspertów
+- Szybsze reagowanie
+
+? Co oznacza wprowadzony w strategii skrót HRV (przy sprzęcie zagrażającym suwerenności)?
+- High Resolution Video
+- Hardware Response Validation
++ High Risk Vendors (dostawcy wysokiego ryzyka)
+- Hosted Recovery Versions
+
+? Jak Strategia Cyberbezpieczeństwa RP planuje osiągnąć cel "Szybsze reagowanie"?
+- Poprzez wymóg informowania o atakach do 5 minut
++ Poprzez ułatwiony dostęp organów ścigania do danych, by zwalczać dezinformację i cyberprzestępczość
+- Poprzez zablokowanie obywatelom możliwości anonimowego komentowania w sieci
+- Przez użycie dronów policyjnych na masową skalę
+
+? Dezinformacja generowana przez algorytmy sztucznej inteligencji (AI) to problem dostrzeżony przez Strategię Cyberbezpieczeństwa RP.
++ Prawda
+- Fałsz
+
+? Które zadanie realizuje postulat "Silniejsze struktury" ze Strategii Cyberbezpieczeństwa RP?
+- Likwidacja Departamentu cyberbezpieczeństwa
++ Wzmocnienie koordynacji (PCOC), rozbudowa NASK i dalsze finansowanie samorządów
+- Oddanie kluczowych usług zagranicznym dostawcom chmury
+- Całkowita rezygnacja z poziomu lokalnego na rzecz centrali
+
+? W jaki sposób państwo chce podjąć "Walkę o ekspertów"?
+- Zmuszając studentów IT do darmowych praktyk w urzędach
++ Utrzymując wyższe pensje w administracji oraz tworząc nowy kierunek: technika cyberbezpieczeństwa
+- Ograniczając wyjazd programistów do innych państw UE
+- Przekazując wszystkich specjalistów bezpośrednio do MON
+
+? Tzw. "Kryptografia postkwantowa" w Strategii Cyberbezpieczeństwa ma posłużyć do:
++ Przygotowania kluczowych systemów państwa na ataki z użyciem komputerów kwantowych
+- Rozsyłania państwowych kryptowalut
+- Unikania płacenia podatków od wydobycia Bitcoina
+- Zwiększenia zasięgu sieci 5G
+
+? Kto, poza rządem, ma otrzymać wsparcie z działań ujętych jako "Silniejsze struktury" (np. finansowanie ochrony)?
+- Giganci technologiczni
++ Podmioty na szczeblu lokalnym (np. samorządy)
+- Uczelnie z zagranicy
+- Partie polityczne
+
+? Nowy kierunek nauczania wspomniany w walce o specjalistów IT to "technika cyberbezpieczeństwa".
++ Prawda
+- Fałsz
+
+? Przestrzeń kosmiczna na liście ustawy KSC została sklasyfikowana jako sektor podmiotów:
++ Kluczowych
+- Ważnych
+- Zwolnionych
+- Zagranicznych
+
+? Wybór konkretnego oprogramowania jest ograniczony, ponieważ prawo każe faworyzować zamknięte, komercyjne technologie.
+- Prawda
++ Fałsz
