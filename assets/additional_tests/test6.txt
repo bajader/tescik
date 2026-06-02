@@ -1,4 +1,4 @@
-$ Wprowadzenie do nauki o bezpieczeństwie informacji i systemów teleinformatycznych
+$ Cyberbezpieczeństwo - AI generated test
 
 ? Cyberbezpieczeństwo to odporność systemów informacyjnych na działania naruszające:
 - Wyłącznie dostępność i integralność danych
