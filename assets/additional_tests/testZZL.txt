@@ -1,0 +1,427 @@
+$ Zarządzanie Zasobami Ludzkimi w Administracji
+
+? T. Rostkowski definiuje ZZL jako "[...] uporządkowanym zbiorem działań".
+- historycznie
+- chaotycznie
++ logicznie
+- prawnie
+
+? Według definicji T. Rostkowskiego, ZZL podejmowane jest w celu zapewnienia organizacji odpowiedniego kapitału ludzkiego pod względem:
+- wyłącznie ilościowym
+- wyłącznie jakościowym
++ jakościowym i ilościowym
+- finansowym i merytorycznym
+
+? W definicji ZZL T. Rostkowskiego pomija się indywidualne potrzeby poszczególnych osób, skupiając się tylko na celach urzędu.
+- Prawda
++ Fałsz
+
+? Które elementy uwzględnia zbiór działań wchodzących w skład ZZL według przytoczonej definicji?
+- Wyłącznie potencjał technologiczny
++ Potrzeby i potencjał rozwojowy poszczególnych osób
+- Wyłącznie oczekiwania kierownictwa
+- Potrzeby polityczne państwa
+
+? Zgodnie z definicją, ostatecznym celem ZZL jest zapewnienie organizacji odpowiedniego [...] ludzkiego.
+- zasobu
++ kapitału
+- personelu
+- czynnika
+
+? Jakie zjawisko/działanie NIE mieści się w przytoczonej definicji ZZL?
+- Uwzględnianie potrzeb poszczególnych osób
+- Uporządkowany zbiór działań
++ Całkowite ignorowanie potencjału rozwojowego jednostek
+- Zapewnienie kapitału ludzkiego organizacji
+
+? Które z poniższych opisów poprawnie definiują ZZL wg Rostkowskiego? (Wybierz odpowiedź łączącą poprawne cechy)
+- Jest to proces oparty wyłącznie na karach
+- Jest to zbiór działań ukierunkowanych tylko na cięcie kosztów
++ Jest to logiczny zbiór działań, uwzględniający potrzeby pracowników i cele organizacji
+- Jest to proces zarządzania infrastrukturą urzędu
+
+? Definicja ZZL koncentruje się na budowaniu przewagi technologicznej, a nie kapitału ludzkiego.
+- Prawda
++ Fałsz
+
+? Zgodnie z definicją, jak ocenia się kapitał ludzki potrzebny organizacji?
++ Pod względem jakościowym i ilościowym
+- Tylko pod względem kosztów zatrudnienia
+- Pod względem wieku i płci
+- Wyłącznie na podstawie wykształcenia
+
+? "Zarządzanie zasobami ludzkimi jest logicznie uporządkowanym zbiorem działań..." Kto jest autorem tej definicji?
+- M. Weber
+- H. Fayol
++ T. Rostkowski
+- A. Maslow
+
+? Do jakiego procesu ZZL należy rekrutacja, selekcja i adaptacja?
+- Analizy pracy
++ Alokacji zasobów ludzkich
+- Oceny pracy i pracowników
+- Rozwoju kapitału ludzkiego
+
+? Wartościowanie pracy oraz ocenianie pracowników to elementy procesu:
+- Alokacji zasobów ludzkich
+- Planowania zatrudnienia
++ Oceny pracy i pracowników
+- Systemów motywowania
+
+? Szkolenia pracowników oraz kształtowanie karier wpadają do kategorii procesów: [...] kapitału ludzkiego organizacji.
+- oceny
+- alokacji
++ rozwoju
+- redukcji
+
+? Motywowanie i motywacja oraz wynagradzanie to składowe:
++ Systemów motywowania pracowników
+- Alokacji zasobów ludzkich
+- Analizy pracy
+- Adaptacji pracowników
+
+? Jakie procesy wchodzą w skład Systemu motywowania pracowników?
+- Tylko wynagradzanie
+- Tylko motywacja pozapłacowa
++ Motywowanie, motywacja i wynagradzanie
+- Ocenianie pracowników i rekrutacja
+
+? Planowanie zatrudnienia jest jednym z kluczowych procesów wchodzących w skład ZZL.
++ Prawda
+- Fałsz
+
+? Adaptacja pracownika (onboarding) to proces zaliczany bezpośrednio do:
+- Rozwoju kapitału ludzkiego
+- Systemów motywowania
++ Alokacji zasobów ludzkich
+- Wartościowania pracy
+
+? Uzupełnij listę procesów ZZL: Analiza pracy i planowanie zatrudnienia, Alokacja zasobów ludzkich, Ocena pracy, Systemy motywowania, [...].
+- Zarządzanie infrastrukturą
++ Rozwój kapitału ludzkiego
+- Zarządzanie interesariuszami
+- Deregulacja stanowisk
+
+? W którym procesie ZZL menedżer podejmuje decyzje o wyborze najlepszego kandydata na wolne stanowisko (selekcja)?
+- Rozwój kapitału ludzkiego
+- Systemy motywowania
+- Ocena pracy i pracowników
++ Alokacja zasobów ludzkich
+
+? Wartościowanie pracy to działanie należące do procesu "Rozwój kapitału ludzkiego".
+- Prawda
++ Fałsz
+
+? W modelu tradycyjnym pracownik traktowany jest według stereotypu człowieka:
+- Społecznego
++ Ekonomicznego (homo oeconomicus)
+- Uczącego się
+- Kompleksowego
+
+? Z jakiego okresu historycznego wywodzi się Model tradycyjny?
+- Lata 1930-1960
+- Koniec XX wieku
++ Koniec XIX i początek XX wieku
+- Obecnie (XXI wiek)
+
+? Model stosunków współdziałania wywodzi się z badań Mayo i opiera się na stereotypie człowieka [...].
+- zewnątrzsterownego
+- kompleksowego
++ społecznego
+- ekonomicznego
+
+? Stereotyp człowieka zewnątrzsterownego i samoregulującego się jest przypisany do:
+- Modelu zwinnego zarządzania
+- Modelu stosunków współdziałania
++ Modelu behawioralnego i humanistycznego
+- Modelu zasobów ludzkich
+
+? W którym modelu pracownik postrzegany jest jako "cenny zasób budujący przewagę konkurencyjną" (stereotyp człowieka kompleksowego)?
+- W modelu tradycyjnym
+- W modelu humanistycznym
++ W modelu zasobów ludzkich
+- W modelu kapitału ludzkiego
+
+? Model kapitału ludzkiego opiera się na założeniu, że najważniejszym zasobem jest maszyna i zmechanizowany proces pracy.
+- Prawda
++ Fałsz
+
+? Zgodnie z koncepcją modelu zwinnego zarządzania (podcast A. Stokowskiej), praca w zespole opiera się przede wszystkim na:
+- Surowej hierarchii i karach
++ Samoorganizacji, samozarządzaniu i empowermentcie
+- Wąskiej specjalizacji jednostek (brak interdyscyplinarności)
+- Kontroli zewnętrznej z pominięciem zaufania
+
+? Kim jest lider w zwinnym modelu zarządzania ludźmi?
+- Autokratą wydającym polecenia
+- Urzędnikiem skupionym na procedurach
++ "Przywódcą służebnym" dyskretnie wspierającym zespół
+- Osobą nastawioną wyłącznie na kontrolowanie czasu pracy
+
+? Z jakimi koncepcjami powiązane jest zwinne zarządzanie według A. Stokowskiej?
+- Taylorizm i fayolizm
++ Organizacje turkusowe i przywództwo służebne
+- Administracja weberowska
+- Model "lider - naśladowcy"
+
+? Kto w modelu behawioralnym jest autorem teorii "zewnątrzsterowności" (kontrola przez nagrody i kary)?
+- A. Maslow
+- E. Mayo
++ B. Skinner
+- M. Weber
+
+? Dążenie człowieka do samorealizacji i rozwoju to element koncepcji A. Maslowa lub C. Rogersa. Do jakiego modelu ZZL należy to przypisać?
+- Tradycyjnego
+- Stosunków współdziałania
++ Behawioralnego i humanistycznego
+- Zwinnego zarządzania
+
+? "Pracownik ma zdolność uczenia się, jest kreatywny i chętnie dzieli się wiedzą". Do którego stereotypu pasuje ten opis?
++ Człowiek uczący się i dzielący się wiedzą (Model kapitału ludzkiego)
+- Człowiek ekonomiczny (Model tradycyjny)
+- Człowiek społeczny (Model stosunków współdziałania)
+- Człowiek zewnątrzsterowny (Model behawioralny)
+
+? W jakiej dacie weszły w życie (i zostały wydane) znowelizowane Standardy zarządzania zasobami ludzkimi w służbie cywilnej w formie Zarządzenia nr 6?
+- 1 stycznia 2008 r.
+- 30 maja 2012 r.
++ 12 marca 2020 r.
+- 16 grudnia 2020 r.
+
+? Kto jest sygnatariuszem (osobą podpisującą) dokumentu określającego Standardy ZZL z 2020 r.?
+- Prezes Rady Ministrów
++ Szef Służby Cywilnej
+- Minister Pracy i Polityki Społecznej
+- Prezydent RP
+
+? Standardy fakultatywne są bezwzględnie wiążące dla każdego urzędu, niezależnie od jego wielkości i budżetu.
+- Prawda
++ Fałsz
+
+? Standardy fakultatywne w dokumencie rozpoczynają się od sformułowania: "[...] się".
+- nakazuje
+- zabrania
++ zaleca
+- wymaga
+
+? Według nowelizacji Standardów ZZL z grudnia 2020 r., przed obsadzeniem stanowisk zarządczych (kierowniczych) wprowadzono obowiązek:
+- Zwiększenia wynagrodzenia o 50%
++ Badania i udokumentowania kompetencji kierowniczych kandydata
+- Przeprowadzenia co najmniej dwóch wywiadów wyjściowych
+- Zatrudnienia doradcy ds. etyki
+
+? Który z wymienionych obszarów został DODANY jako zupełnie nowy w Standardach ZZL z 2020 roku?
+- Organizacja procesów zarządzania ludźmi
+- Nabór i zatrudnienie
++ Narzędzia Work-Life Balance (WLB)
+- Rozwiązanie stosunku pracy
+
+? Czego dotyczą narzędzia Work-Life Balance w Standardach ZZL z 2020 r.? (Zaznacz najpełniejszą odpowiedź)
+- Wyłącznie dopłat do wczasów
+- Jedynie możliwości wcześniejszego wyjścia z pracy w piątki
++ Elastycznego czasu pracy, telepracy, wsparcia zdrowotnego i udogodnień dla rodziców/rowerzystów
+- Tylko surowej kontroli nadgodzin
+
+? Co znajduje się w obszarze "Rozwiązanie stosunku pracy" według nowych standardów?
+- Wprowadzenie obligatoryjnych odpraw dla każdego urzędnika
++ Zalecenie przeprowadzania wywiadów wyjściowych (exit interview) i rozmów derekrutacyjnych
+- Zakaz zwalniania pracowników w wieku przedemerytalnym
+- System automatycznych kar dyscyplinarnych
+
+? W jakim obszarze Standardów znajduje się zalecenie dotyczące powołania "doradcy ds. etyki"?
++ Organizacja procesów zarządzania ludźmi
+- Rozwój i szkolenia
+- Nabór, zatrudnienie i wprowadzenie do pracy
+- Motywowanie
+
+? Do kogo adresowane są "ułatwienia we wdrażaniu" obligatoryjnych Standardów ZZL?
+- Do urzędów zatrudniających powyżej 1000 osób
+- Tylko do urzędów wojewódzkich
++ Do małych urzędów zatrudniających poniżej 50 pracowników korpusu SC
+- Nie ma żadnych ułatwień dla żadnych urzędów
+
+? Czego dotyczy obszar "Motywowanie" w Standardach ZZL?
+- Rozmów derekrutacyjnych
++ Dodatków zadaniowych, jasnych kryteriów nagród i wspierania mobilności
+- E-learningu i zarządzania wiedzą
+- Wdrażania infrastruktury rowerowej
+
+? Wskaż poprawne ułożenie 3 podstawowych ustaw regulujących kadry w administracji publicznej i ich daty powstania:
+- Ustawa o służbie cywilnej (2000), Ustawa o pracownikach samorządowych (2008), Ustawa o pracownikach rządowych (2020)
++ Ustawa o służbie cywilnej (2008), Ustawa o pracownikach samorządowych (2008), Ustawa o pracownikach urzędów państwowych (1982)
+- Ustawa o pracownikach administracji (1990), Ustawa o korpusie urzędniczym (2015), Ustawa samorządowa (2005)
+- Brak odrębnych ustaw, obowiązuje tylko Kodeks Pracy
+
+? Kogo reguluje Ustawa o pracownikach urzędów państwowych z 1982 r.?
+- Urzędników w gminach i powiatach
+- Osoby zatrudnione w ministerstwach w ramach korpusu Służby Cywilnej
++ Pracowników naczelnych instytucji państwowych, np. Kancelarii Sejmu, Senatu, NIK, niebędących w korpusie SC
+- Wyłącznie nauczycieli w szkołach państwowych
+
+? Która ustawa ma za zadanie zagwarantować zawodowe i politycznie neutralne wykonywanie zadań państwa (np. w ministerstwach)?
+- Ustawa o pracownikach samorządowych
++ Ustawa o służbie cywilnej
+- Ustawa o pracownikach urzędów państwowych
+- Prawo administracyjne z 1999 r.
+
+? Ustawa o pracownikach [...] (2008) odnosi się m.in. do urzędów gmin, starostw powiatowych i urzędów marszałkowych.
+- państwowych
+- publicznych
++ samorządowych
+- regionalnych
+
+? Jakie formy nawiązania stosunku pracy reguluje Ustawa o pracownikach samorządowych z 2008 r.?
+- Wyłącznie umowę o pracę
+- Mianowanie i wolontariat
++ Wybór, powołanie i umowę o pracę
+- Powołanie i kontrakt menedżerski
+
+? Ustawa o służbie cywilnej z 2008 r. reguluje zasady funkcjonowania pracowników w Kancelarii Prezydenta RP.
+- Prawda
++ Fałsz
+
+? Która ideologia zakłada, że obywatel posiada prawa ograniczające aktywność (ingerencję) państwa, a państwo musi dostarczać określone usługi społeczne?
+- Ideologia demokracji
+- Ideologia wolnego rynku
++ Ideologia praw człowieka
+- Ideologia społeczeństwa biurokratycznego
+
+? W administracji publicznej pracownik dysponuje władzą:
+- Wynikającą z jego autorytetu osobistego
+- Przekazaną mu przez korporację prywatną
++ Przekazaną mu przez państwo (działa w imieniu państwa)
+- Nielimitowaną
+
+? Co jest fundamentem działania administracji publicznej i znacząco ogranicza kreatywność jej pracowników w stosunku do sektora prywatnego?
++ Działanie w ściśle określonych granicach obowiązującego prawa
+- Brak jakichkolwiek budżetów
+- Konkurencja rynkowa z innymi urzędami
+- Zakaz używania nowoczesnych technologii
+
+? ZZL w administracji publicznej jest nastawione na bardzo szybkie i elastyczne zmiany rynkowe, a nie na ciągłość państwa.
+- Prawda
++ Fałsz
+
+? Dlaczego wprowadzanie zmian personalnych w administracji jest często powolne?
+- Z powodu lenistwa urzędników
++ Bo wszelkie innowacje i zmiany (np. systemy wynagrodzeń) wymagają stworzenia nowych ram prawnych (ustaw, rozporządzeń)
+- Ponieważ zabraniają tego przepisy unijne
+- Gdyż brakuje specjalistów od HR
+
+? Jaką koncepcję prezentują "Prawa człowieka II generacji" (uprawnienia)?
+- Wolność słowa i wyznania
++ Dostarczanie usług ekonomicznych i społecznych (np. zdrowotnych, edukacyjnych) przez administrację
+- Prawa ludów do niepodległości
+- Prawo do wolnego rynku
+
+? Jakie jest główne źródło autorytetu w modelu biurokracji tradycyjnej Maxa Webera?
+- Wyniki finansowe i efektywność urzędu
+- Charyzma lokalnego przywódcy
++ Prawo, zasada legalizmu i ścisłe procedury
+- Opinia i poparcie publiczne
+
+? W tradycyjnym modelu weberowskim zasada awansu opiera się na:
++ Kwalifikacjach formalnych i stażu pracy
+- Zrealizowanych zyskach
+- Samodzielnej innowacyjności
+- Konkurencyjności na rynku usług
+
+? W modelu Maxa Webera wynagrodzenie urzędnika zależy ściśle od ilości i jakości realizowanych przez niego wyników miesięcznych.
+- Prawda
++ Fałsz
+
+? Zgodnie z koncepcją Webera, zatrudnienie ma charakter [...] (zawodowy) i gwarantuje dużą stabilność, co ma rekompensować niższe zarobki.
+- rotacyjny
+- krótkoterminowy
++ długookresowy (dożywotni)
+- dorywczy
+
+? "Depersonalizacja" w modelu Webera oznacza, że:
+- Urzędnicy pracują zdalnie
++ Decyzje są podejmowane bezosobowo na podstawie ogólnych przepisów, a nie relacji międzyludzkich
+- Pracownik nie posiada imienia, a jedynie numer służbowy
+- Zwolnienia odbywają się automatycznie przez algorytmy
+
+? Z jakiego powodu powstał model Zarządzania Publicznego (New Public Management)?
++ W wyniku silnej krytyki tradycyjnej biurokracji za nadmierne koszty i niską elastyczność
+- Jako pomysł M. Webera na ulepszenie swojej własnej teorii
+- Ponieważ upadły wszystkie firmy prywatne
+- W celu powrotu do czasów absolutnych monarchii
+
+? Co jest głównym punktem odniesienia (orientacją) w modelu Zarządzania Publicznego?
+- Przestrzeganie każdej, nawet najmniejszej procedury formalnej
++ Osiąganie konkretnych rezultatów i zadowolenie obywatela-klienta
+- Utrzymanie tradycyjnych struktur piramidalnych
+- Pasywność i minimalizowanie podejmowania jakiegokolwiek ryzyka
+
+? Czym charakteryzuje się Zarządzanie Publiczne w odniesieniu do organizacji? (Zaznacz poprawne podejście)
+- Ścisła centralizacja władzy i monopol na wszystkie usługi
++ Decentralizacja, komercjalizacja, tworzenie "quasi-rynków" i outsourcing usług publicznych
+- Całkowity zakaz współpracy z organizacjami pozarządowymi
+- Gwarancja zatrudnienia dla każdego urzędnika aż do emerytury
+
+? W Zarządzaniu Publicznym menedżer w urzędzie otrzymuje dużą autonomię w dysponowaniu zasobami, ale zyskuje wysoce rygorystyczną odpowiedzialność za końcowe [...].
+- przepisy
+- procedury
++ rezultaty (efekty)
+- kary
+
+? W modelu Zarządzania Publicznego powszechnym zjawiskiem staje się zatrudnianie pracowników na czas realizacji konkretnego projektu, w miejsce etatów dożywotnich.
++ Prawda
+- Fałsz
+
+? Porównując model Weberowski do Zarządzania Publicznego, styl kierowania to odpowiednio:
++ Administrowanie (Weber) vs. Zarządzanie (Z. Publiczne)
+- Zarządzanie (Weber) vs. Administrowanie (Z. Publiczne)
+- Kontrola (Weber) vs. Kary (Z. Publiczne)
+- Delegowanie (Weber) vs. Centralizacja (Z. Publiczne)
+
+? Porównując struktury w obu modelach:
+- U Webera są płaskie, w Z. Publicznym silnie zhierarchizowane
++ U Webera są sztywne i hierarchiczne, w Z. Publicznym płaskie i zdywersyfikowane
+- W obu przypadkach opierają się na wolnej rynkowej grze
+- Nie ma różnic w strukturze organizacyjnej
+
+? Good Governance (Dobre rządzenie) odrzuca współpracę ze społeczeństwem na rzecz silnego, izolowanego autorytaryzmu urzędniczego.
+- Prawda
++ Fałsz
+
+? Która zasada NIE NALEŻY do koncepcji Good Governance?
+- Otwartość
+- Powszechne uczestnictwo (partycypacja)
+- Przejrzystość
++ Całkowita tajność decyzji politycznych dla zachowania spokoju
+
+? Uzupełnij cel działań obu modeli: Celem tradycyjnej biurokracji Webera jest utrwalenie porządku i prawa, podczas gdy celem Zarządzania Publicznego jest ciągłe wywoływanie i adaptacja [...].
+- procedur
+- regulaminów
++ zmian
+- awansów
+
+? Jakie negatywne zjawisko społeczne w kadrach może powodować aplikacja zarządzania publicznego (komercjalizacji) w państwie?
+- Zrównanie pensji wszystkich obywateli
++ Powstawanie podziałów na "kasty" pracownicze (pewne etaty mianowane vs niepewne kontrakty)
+- Zanik bezrobocia
+- Wzrost zatrudnienia na stanowiskach dożywotnich w każdej sferze państwa
+
+? Wymień korzyści wynikające z wprowadzenia mechanizmów rynkowych w administracji (Zarządzanie publiczne):
+- Eliminacja wszelkiej korupcji w kontraktach publicznych
++ Wzrost elastyczności urzędów i poszerzenie oferty usługowej dla obywatela
+- Państwo zyskuje pełny i totalny monopol na wszystko
+- Wymuszenie rezygnacji obywateli z praw wyborczych
+
+? Z jakimi wątpliwościami etycznymi wiąże się model Z. Publicznego (prywatyzacji i outsourcingu zadań)?
+- Menedżerowie sektora prywatnego zawsze troszczą się o państwo bardziej niż o zysk
++ Uzależnienie wypłat od wyników finansowych rodzi podejrzenia o marginalizację "dobra publicznego" w imię zysku i rośnie ryzyko patologii korupcyjnych
+- Brak możliwości zawierania jakichkolwiek umów
+- Urzędnicy stają się zbyt życzliwi dla obywateli
+
+? Według podanej wiedzy, wprowadzenie Zarządzania Publicznego do urzędu prowadzi zawsze do automatycznego zwiększenia liczby stałych etatów urzędniczych.
+- Prawda
++ Fałsz
+
+? Zmiana "etosu służby państwowej" w Zarządzaniu Publicznym może grozić przejściem urzędników na etykę:
+- Uniwersalistyczną i altruistyczną
++ Indywidualistyczną i oportunistyczną (dbałość o własne zyski projektowe)
+- Tradycyjną i weberowską
+- Ascetyczną
