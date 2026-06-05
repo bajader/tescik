@@ -6,7 +6,7 @@ $ Logika
 - Wyłącznie analizą struktury gramatycznej zdań.
 - Opisem procesów neurobiologicznych w mózgu.
 
-? Prawda czy Fałsz: Badanie faktycznych sposobów myślenia ludzi (kwestia opisowa) należy do głównego nurtu logiki praktycznej.
+? Badanie faktycznych sposobów myślenia ludzi (kwestia opisowa) należy do głównego nurtu logiki praktycznej.
 - Prawda
 + Fałsz
 
@@ -82,7 +82,7 @@ $ Logika
 + Cel perswazyjny (przekonanie lub nakłonienie adresata).
 - Zastosowanie indukcji zupełnej.
 
-? Prawda czy Fałsz: Każde uzasadnianie jest automatycznie argumentacją.
+? Każde uzasadnianie jest automatycznie argumentacją.
 - Prawda
 + Fałsz
 
@@ -134,7 +134,7 @@ $ Logika
 - Tworzeniu nowej normy prawnej na bazie powtarzalnych wyroków (indukcja).
 - Odrzuceniu założeń, które doprowadziły do sprzeczności w zeznaniach.
 
-? Prawda czy Fałsz: Model N-D ma charakter normatywny (dotyczy norm), podczas gdy subsumpcja ma charakter opisowy (dotyczy faktów).
+? Model N-D ma charakter normatywny (dotyczy norm), podczas gdy subsumpcja ma charakter opisowy (dotyczy faktów).
 - Prawda
 + Fałsz
 
@@ -288,7 +288,7 @@ $ Logika
 - schemat
 - indeks
 
-? Prawda czy Fałsz: Abstrakcyjny znak-typ skupia wszystkie znaki-egzemplarze mające tę samą postać graficzną lub fonetyczną.
+? Abstrakcyjny znak-typ skupia wszystkie znaki-egzemplarze mające tę samą postać graficzną lub fonetyczną.
 + Prawda
 - Fałsz
 
@@ -322,7 +322,7 @@ $ Logika
 + Amfibolii
 - Idem per idem
 
-? (PRZYKŁAD NOWY) Wypowiedź: "Sprzedam szafę z lustrem z czasów PRL-u. Ma uszkodzoną jedną nogę." to:
+? Wypowiedź: "Sprzedam szafę z lustrem z czasów PRL-u. Ma uszkodzoną jedną nogę." to:
 - Błędne koło pośrednie
 - Definicja ostensywna
 + Amfibolia (składnia nie mówi jasno, czy to szafa ma nogę, czy lustro, i co jest z PRL-u)
@@ -346,7 +346,7 @@ $ Logika
 - amfibolii
 - paralogizmu
 
-? (PRZYKŁAD NOWY) Które z poniższych zdań zawiera ekwiwokację?
+? Które z poniższych zdań zawiera ekwiwokację?
 - Samochód wjechał w przeszkodę i się rozbił.
 + Zamek wpuszczał intruzów, bo klucz do zamka zardzewiał, a i królowa wyjechała z zamka na długo, gubiąc zamek od spodni.
 - Moja mama bardzo interesuje się historią powszechną i historią sztuki.
@@ -388,7 +388,7 @@ $ Logika
 - Należą do zjawiska ekwiwokacji intencjonalnej.
 - Oznaczają jeden i ten sam obiekt bez względu na epokę i osobę mówiącą.
 
-? Prawda czy Fałsz: "Tutaj jutro spadnie deszcz" - słowa "tutaj" i "jutro" to wyrażenia systematycznie wieloznaczne typu polisemia.
+? "Tutaj jutro spadnie deszcz" - słowa "tutaj" i "jutro" to wyrażenia systematycznie wieloznaczne typu polisemia.
 - Prawda
 + Fałsz (są to wyrażenia okazjonalne)
 
@@ -522,7 +522,7 @@ $ Logika
 - Idem per idem.
 - Definicja enumeracyjna ukryta.
 
-? (PRZYKŁAD NOWY) Podaj typ błędu dla: "Świadomość to malutki, świecący kryształ ułożony w tylnej części czaszki człowieka."
+? Podaj typ błędu dla: "Świadomość to malutki, świecący kryształ ułożony w tylnej części czaszki człowieka."
 + Przesunięcie kategorialne (myli cechę abstrakcyjną z przedmiotem).
 - Definicja legalna.
 - Zbyt szeroka definicja sprawozdawcza.
@@ -582,7 +582,7 @@ $ Logika
 - probablistyczny
 - sprawozdawczy
 
-? Prawda czy Fałsz: Jeśli z założenia argument traktowany jako dedukcyjny jest "formalnie poprawny", to znaczy, że jego przesłanki muszą być prawdziwe w rzeczywistości (w świecie materialnym).
+? Jeśli z założenia argument traktowany jako dedukcyjny jest "formalnie poprawny", to znaczy, że jego przesłanki muszą być prawdziwe w rzeczywistości (w świecie materialnym).
 - Prawda
 + Fałsz (oznacza to tylko, że wniosek wynika z nich poprawnie strukturalnie - jeśli przesłanki byłyby prawdziwe, wniosek też by był. Sama prawdziwość materialna to osobna ocena).
 
@@ -622,7 +622,7 @@ $ Logika
 - Nie wiemy, czy wniosek dotyczy Warszawy czy Krakowa.
 - Nie, w logice nic nie jest pewne.
 
-? Prawda czy Fałsz: Jeśli pewien logicznie poprawny argument dedukcyjny ma na końcu prawdziwą konkluzję, to z całą pewnością wszystkie jego wcześniejsze przesłanki również były prawdziwe.
+? Jeśli pewien logicznie poprawny argument dedukcyjny ma na końcu prawdziwą konkluzję, to z całą pewnością wszystkie jego wcześniejsze przesłanki również były prawdziwe.
 - Prawda
 + Fałsz (Z fałszywych przesłanek też można wyciągnąć prawdziwy wniosek, np. "Jeśli Ziemia jest płaska, to zjem buta. / Płaska jest (F). / Jem buta (P - bo np. przegrałem inny zakład i faktycznie go jem"). 
 
@@ -698,7 +698,7 @@ $ Logika
 - Przesunięcia kategorialnego (wymieszało skamieliny z procesem historycznym).
 - Sylogizmu indukcyjnego.
 
-? (PRZYKŁAD NOWY) Oceniamy definicję: "Biurko to stół używany najczęściej w domach i posiadający cztery nogi, i często szuflady". Jakie najpewniej popełnia uchybienie błędu nieadekwatności z perspektywy definicji ogólnej biurka (stan faktyczny: np. biurka robione ze ściany, z 2 boków z płyty)?
+? Oceniamy definicję: "Biurko to stół używany najczęściej w domach i posiadający cztery nogi, i często szuflady". Jakie najpewniej popełnia uchybienie błędu nieadekwatności z perspektywy definicji ogólnej biurka (stan faktyczny: np. biurka robione ze ściany, z 2 boków z płyty)?
 - Błędne koło pośrednie.
 + Jest definicją za wąską (wyklucza z zakresu biurka np. zawieszane na wspornikach do ściany, bez nóg; podnoszone elektrycznie biurka na jednej nodze centralnej z dwoma odnogami).
 - Jest równocześnie idem per idem.
@@ -716,7 +716,7 @@ $ Logika
 - Poszerzenie danych wyjściowych o pojęcia z zakresu fizyki kwantowej.
 - Błąd Idem per idem ukryty w konkluzji argumentacyjnej.
 
-? (PRZYKŁAD NOWY) Czytamy wypowiedź: "Mój szef jest z innej planety, ciągle nie rozumie moich potrzeb urlopowych". Co należy najpierw zrobić na etapie "logicznej analizy wypowiedzi"?
+? Czytamy wypowiedź: "Mój szef jest z innej planety, ciągle nie rozumie moich potrzeb urlopowych". Co należy najpierw zrobić na etapie "logicznej analizy wypowiedzi"?
 + Przeformułować ją na język neutralny, usuwając ozdobnik emocjonalny o "innej planecie".
 - Uznać "z innej planety" za hipotezę naukową o UFO (w abdukcji).
 - Potraktować "urlop" jako przesunięcie kategorialne do "przestrzeni kosmicznej".
@@ -764,13 +764,13 @@ $ Logika
 - Wyrażeń wskazujących na stan chwilowy emocji oponenta.
 - Modus ponens z zakresu rachunku zdań (samo Modus ponens działa na czystych zdaniach "Jeśli p to q").
 
-? (PRZYKŁAD NOWY) Wskazanie błędu nieadekwatności. Podano nową definicję pracowniczą: "Specjalistą od UX (User Experience) w tej firmie nazwiemy od dzisiaj pracownika, który kiedykolwiek włączył przeglądarkę Safari na komputerze lub potrafi zmienić tapetę u asystentki prezesa". Definicja najprawdopodobniej (znając rynkowe wymogi kompetencji analityka stron www i doświadczeń użytkownika):
+? Wskazanie błędu nieadekwatności. Podano nową definicję pracowniczą: "Specjalistą od UX (User Experience) w tej firmie nazwiemy od dzisiaj pracownika, który kiedykolwiek włączył przeglądarkę Safari na komputerze lub potrafi zmienić tapetę u asystentki prezesa". Definicja najprawdopodobniej (znając rynkowe wymogi kompetencji analityka stron www i doświadczeń użytkownika):
 - Jest za wąska dla branży IT (wymaga zbyt wiele od informatyków).
 - Reprezentuje błąd "Ignotum per ignotum".
 + Jest rażąco, dramatycznie "za szeroka" – wymienia trywialne wręcz zdolności posługiwania się oknami komputera powszechne u większości populacji świata i obejmie też zakres sprzątaczki która raz umyła monitor z włączoną przeglądarką.
 - Stanowi idealny dowód poprawności operacyjnej oprogramowania UX.
 
-? (PRZYKŁAD NOWY) Błąd w logicznej definicji o nazwie "Idem per idem" to przypadek podania określenia: "Krzesło biurowe dla zarządu nazywamy przedmiotem ukształtowanym podobnie do...
+? Błąd w logicznej definicji o nazwie "Idem per idem" to przypadek podania określenia: "Krzesło biurowe dla zarządu nazywamy przedmiotem ukształtowanym podobnie do...
 + ... typowego biurowego krzesła przeznaczonego na strefę zarządzania korporacją." (brak wskazania z czego składa się "to nowum" albo inne pojęcia wyjaśniające).
 - ... mebla służącego na spoczynek z uregulowaniem oparcia pod kręgosłup lędźwiowy, obrót 360 i rolki nośne poliwęglanowe".
 - ... kwadratowego stołu wykonanego na potrzebę spożywania potraw" (to przesunięcie błędu na całkowity absurd za wąsko - mylne pojęciowanie).
@@ -812,7 +812,7 @@ $ Logika
 + Rozumowanie z natury wieloetapowej - "hybrydowe (inferencyjnie niejednorodne)", będące po prostu typowym "ustalaniem stanu faktycznego".
 - Myślenie "intuicyjne decyzyjnie".
 
-? W wypowiedzi "Logika umożliwia..." i np. "Ogranicza bezzasadne... i niespójności" (cel podręcznika): Prawda czy fałsz: Głównym zyskiem logiki w edukacji praktycznej specjalisty dla jego działań komunikacyjnych czy badawczych, jest uniknięcie utraty "wiarygodności" z powodu bolesnych i jawnych wad argumentacji typu sprzeczność, zacieranie jasności terminologii czy fałszywość dowodzenia.
+? W wypowiedzi "Logika umożliwia..." i np. "Ogranicza bezzasadne... i niespójności" (cel podręcznika): Głównym zyskiem logiki w edukacji praktycznej specjalisty dla jego działań komunikacyjnych czy badawczych, jest uniknięcie utraty "wiarygodności" z powodu bolesnych i jawnych wad argumentacji typu sprzeczność, zacieranie jasności terminologii czy fałszywość dowodzenia.
 + Prawda
 - Fałsz
 
@@ -864,7 +864,7 @@ $ Logika
 - Czysty entymemat definicyjny na błędy formalne (sylogizm prawniczy pod wirtualną subsumpcję dyrekcji firmy na papier bez podpisu) podyktowany błędem z reguł jasności w argumentacji probabilistycznej do sędziów u archiwisty - brak dowodów dedukcyjnie wymuszających obronę szaf archiwalnych przez czarne przedmioty skoroszytowe.
 - Uznano domyślnie to za definicje ostensywną popartą na dowodzie abdukcyjnym (przyczyna awarii na stanowisku) poprzez dodanie nowej nazwy okazjonalnej ("ta teczka dzisiaj oznaczająca w tym miejscu to archiwum pracownicze archiwisty - po wykazie dla prezesa"). 
 
-? Prawda czy Fałsz: Brak pieczęci we wniosku uznanym na logikę za bezwartościowy w urzędzie - przy braku równego wymogu od "stałego klienta urzędu" ("od niego przyjmę w drodze wyjątku!"), wyklucza dla tej sytuacji spełnianie przez wywód "logicznego uwarunkowania bycia ukształtowanym pod poprawnie zbudowaną (obronną dla dyktatu braku luk), spójność typu "Regulacyjną" w toku argumentów/dowodów stosowanych w praktyce po obwieszczeniu zasady gry po podmiocie. 
+? Brak pieczęci we wniosku uznanym na logikę za bezwartościowy w urzędzie - przy braku równego wymogu od "stałego klienta urzędu" ("od niego przyjmę w drodze wyjątku!"), wyklucza dla tej sytuacji spełnianie przez wywód "logicznego uwarunkowania bycia ukształtowanym pod poprawnie zbudowaną (obronną dla dyktatu braku luk), spójność typu "Regulacyjną" w toku argumentów/dowodów stosowanych w praktyce po obwieszczeniu zasady gry po podmiocie. 
 + Prawda (bo urzędnik wprowadził arbitralny - odmienny z kapelusza standard dla stałego klienta pomimo podanej zasady ogólnej z regulacji i łamie tym spójność ustalonego uogólnienia do zasady ujęcia/przebiegu gry). 
 - Fałsz (bo urzędnik posiłkował się QMP na sylogizm uogólniony i abdukcyjnie zlikwidował pieczątkę ze względu na niedopowiedzenie dziedziny u stałego klienta pod "zasadą życzliwości" w stosunku z uogólnienia do argumentu na wyższym etapie sprawozdawczym). 
 
