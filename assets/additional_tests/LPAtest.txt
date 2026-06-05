@@ -1,4 +1,4 @@
-$ Logika Praktyczna - Kompletny Test (150 pytań)
+$ Logika
 
 ? 1. Czym zajmuje się logika w ujęciu metodologicznym?
 - Badaniem tego, jak ludzie faktycznie myślą.
