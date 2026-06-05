@@ -18,5 +18,9 @@
     {
         "title": "Zarządzanie Zasobami Ludzkimi w Administracji",
         "file": "testZZL.txt"
+    },
+    {
+        "title": "Logika",
+        "file": "LPAtest.txt"
     }
 ]
