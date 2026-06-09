@@ -6,5 +6,9 @@
     {
         "title": "Logika",
         "file": "LPAtest.txt"
+    },
+    {
+        "title": "Angielski",
+        "file": "test_angielski.txt"
     }
 ]
