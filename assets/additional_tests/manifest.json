@@ -10,5 +10,9 @@
     {
         "title": "Angielski",
         "file": "test_angielski.txt"
+    },
+    {
+        "title": "Rodzinka.pl",
+        "file": "Rodzinkapl.txt"
     }
 ]
