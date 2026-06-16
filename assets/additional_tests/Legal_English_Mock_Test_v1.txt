@@ -353,152 +353,152 @@ $ Część 2: Przyimki (Prepositions)
 - for
 
 $ Część 3: Uzupełnianie luk słówkami z ramki (Word Matching)
-? [Słówka do wyboru: dividend, contributions, minutes, resolutions, objects] The shareholders make ________ to the company's share capital.
+? The shareholders make ________ to the company's share capital.
 + contributions
 - dividend
 - minutes
 - resolutions
-? [Słówka do wyboru: dividend, contributions, minutes, resolutions, objects] The meeting decisions are taken in the form of formal ________.
+? The meeting decisions are taken in the form of formal ________.
 + resolutions
 - minutes
 - contributions
 - dividend
-? [Słówka do wyboru: dividend, contributions, minutes, resolutions, objects] The formal record of what was said at the meeting is called the ________.
+? The formal record of what was said at the meeting is called the ________.
 + minutes
 - dividend
 - objects
 - resolutions
-? [Słówka do wyboru: dividend, contributions, minutes, resolutions, objects] A right to a share in the company's profit is a right to a ________.
+? A right to a share in the company's profit is a right to a ________.
 + dividend
 - contributions
 - minutes
 - objects
-? [Słówka do wyboru: valid, capacity, consideration, representations, void] A party can conclude a contract if it has the ________ to perform acts in law.
+? A party can conclude a contract if it has the ________ to perform acts in law.
 + capacity
 - consideration
 - representations
 - valid
-? [Słówka do wyboru: valid, capacity, consideration, representations, void] For a contract to be legally binding, it must be ________ and enforceable.
+? For a contract to be legally binding, it must be ________ and enforceable.
 + valid
 - void
 - consideration
 - capacity
-? [Słówka do wyboru: valid, capacity, consideration, representations, void] A statement of fact made by a party under a contract is known as ________.
+? A statement of fact made by a party under a contract is known as ________.
 + representations
 - consideration
 - void
 - capacity
-? [Słówka do wyboru: valid, capacity, consideration, representations, void] Money, services, or work exchanged under a contract is called ________.
+? Money, services, or work exchanged under a contract is called ________.
 + consideration
 - capacity
 - valid
 - representations
-? [Słówka do wyboru: nuisance, conversion, recklessness, punitive, foreseeable] The court may award ________ damages to make an example of the wrongdoer.
+? The court may award ________ damages to make an example of the wrongdoer.
 + punitive
 - foreseeable
 - nuisance
 - conversion
-? [Słówka do wyboru: nuisance, conversion, recklessness, punitive, foreseeable] Taking another person's property and violating their rights is a tort of ________.
+? Taking another person's property and violating their rights is a tort of ________.
 + conversion
 - nuisance
 - recklessness
 - punitive
-? [Słówka do wyboru: nuisance, conversion, recklessness, punitive, foreseeable] A tort happens when a party's negligent actions cause an injury that was ________.
+? A tort happens when a party's negligent actions cause an injury that was ________.
 + foreseeable
 - punitive
 - nuisance
 - recklessness
-? [Słówka do wyboru: nuisance, conversion, recklessness, punitive, foreseeable] The judge reasoned that the defendant's behavior was intentional and demonstrated ________.
+? The judge reasoned that the defendant's behavior was intentional and demonstrated ________.
 + recklessness
 - conversion
 - nuisance
 - foreseeable
-? [Słówka do wyboru: fixtures, convey, premises, freehold, appurtenant] The owner has the right to possess, use, and ________ its property to another person.
+? The owner has the right to possess, use, and ________ its property to another person.
 + convey
 - fixtures
 - premises
 - appurtenant
-? [Słówka do wyboru: fixtures, convey, premises, freehold, appurtenant] An easement ________ attaches to the land permanently and benefits its owner.
+? An easement ________ attaches to the land permanently and benefits its owner.
 + appurtenant
 - freehold
 - convey
 - fixtures
-? [Słówka do wyboru: fixtures, convey, premises, freehold, appurtenant] The contract should include details about the sale price and any ________ and fittings.
+? The contract should include details about the sale price and any ________ and fittings.
 + fixtures
 - convey
 - appurtenant
 - premises
-? [Słówka do wyboru: amend, bypass, cabinet, assert, uphold] Parliament may ________ the presidential veto with a two-thirds vote.
+? Parliament may ________ the presidential veto with a two-thirds vote.
 + bypass
 - amend
 - uphold
 - assert
-? [Słówka do wyboru: amend, bypass, cabinet, assert, uphold] An appeal court may disagree with the lower court or decide to ________ the ruling.
+? An appeal court may disagree with the lower court or decide to ________ the ruling.
 + uphold
 - bypass
 - amend
 - cabinet
-? [Słówka do wyboru: amend, bypass, cabinet, assert, uphold] If you want to change an existing law, you propose to ________ it.
+? If you want to change an existing law, you propose to ________ it.
 + amend
 - uphold
 - bypass
 - assert
-? [Słówka do wyboru: acquit, testify, oath, exhibit, sustained] The witness must take an ________ before giving testimony in court.
+? The witness must take an ________ before giving testimony in court.
 + oath
 - exhibit
 - acquit
 - sustained
-? [Słówka do wyboru: acquit, testify, oath, exhibit, sustained] A piece of physical evidence presented during a trial is called an ________.
+? A piece of physical evidence presented during a trial is called an ________.
 + exhibit
 - oath
 - acquit
 - sustained
-? [Słówka do wyboru: acquit, testify, oath, exhibit, sustained] If the jury finds the defendant not guilty, the court will ________ them.
+? If the jury finds the defendant not guilty, the court will ________ them.
 + acquit
 - testify
 - sustained
 - oath
-? [Słówka do wyboru: default, entire, severability, waiver, confidential] The ________ clause states that if one provision is invalid, the rest remain in effect.
+? The ________ clause states that if one provision is invalid, the rest remain in effect.
 + severability
 - default
 - waiver
 - entire
-? [Słówka do wyboru: default, entire, severability, waiver, confidential] A failure by one party to exercise its right does not constitute a ________ of that right.
+? A failure by one party to exercise its right does not constitute a ________ of that right.
 + waiver
 - default
 - severability
 - entire
-? [Słówka do wyboru: default, entire, severability, waiver, confidential] If the mortgagor fails to repay the loan on time, it is an event of ________.
+? If the mortgagor fails to repay the loan on time, it is an event of ________.
 + default
 - waiver
 - severability
 - confidential
-? [Słówka do wyboru: default, entire, severability, waiver, confidential] The ________ agreement clause supersedes all prior agreements between the parties.
+? The ________ agreement clause supersedes all prior agreements between the parties.
 + entire
 - default
 - severability
 - confidential
-? [Słówka do wyboru: majority, proxy, disclosure, binding, term] A commercial ________ may act on behalf of the company together with a board member.
+? A commercial ________ may act on behalf of the company together with a board member.
 + proxy
 - majority
 - term
 - disclosure
-? [Słówka do wyboru: majority, proxy, disclosure, binding, term] Decisions at the meeting are usually adopted by an absolute ________ of votes.
+? Decisions at the meeting are usually adopted by an absolute ________ of votes.
 + majority
 - proxy
 - binding
 - term
-? [Słówka do wyboru: majority, proxy, disclosure, binding, term] To keep certain information secret, parties sign a non-________ agreement.
+? To keep certain information secret, parties sign a non-________ agreement.
 + disclosure
 - binding
 - majority
 - term
-? [Słówka do wyboru: majority, proxy, disclosure, binding, term] The offer is not legally ________ until contracts are exchanged and signed.
+? The offer is not legally ________ until contracts are exchanged and signed.
 + binding
 - term
 - proxy
 - disclosure
-? [Słówka do wyboru: jurisdiction, prevailing, force, supersedes, dispute] Any ________ arising out of this contract will be resolved by the competent court.
+? Any ________ arising out of this contract will be resolved by the competent court.
 + dispute
 - jurisdiction
 - force
