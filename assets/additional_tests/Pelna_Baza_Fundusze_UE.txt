@@ -51,9 +51,9 @@ $ Fundusze UE
 + Uchwalanie budżetu przez Parlament Europejski i Radę UE
 + Wykonywanie budżetu przez Komisję
 - Wykonywanie budżetu przez Parlament Europejski i Radę UE
-+ Orzekanie przez Trybunał Sprawiedliwości
+- Orzekanie przez Trybunał Sprawiedliwości
 - Kontrola wykonania budżetu przez ETO
-- Kontrola wykonania budżetu przez NIK
++ Kontrola wykonania budżetu przez NIK
 
 ? Jakie przestępstwa może ścigać Prokuratura Europejska (EPPO)?
 + Nadużycia związane z funduszami UE
@@ -124,7 +124,7 @@ $ Fundusze UE
 - Policja
 - Komisja Europejska
 + Centralne Biuro Antykorupcyjne (CBA)
-- Krajowa Administracja Skarbowa
++ Krajowa Administracja Skarbowa
 
 ? Które z poniższych czynności mogą stanowić nieprawidłowość?
 + Naruszenie krajowych przepisów przetargowych przy zamówieniu publicznym finansowanym z Europejskiego Funduszu Rozwoju Regionalnego
@@ -235,7 +235,7 @@ $ Fundusze UE
 ? Terminy przedawnienia nieprawidłowości (rozporządzenie 2988/1995):
 - ogólny termin wynosi 4 lata od dnia wykrycia nieprawidłowości
 + ogólny termin wynosi 4 lata od dnia popełnienia nieprawidłowości
-+ państwa członkowskie mogą ustalać krótsze terminy przedawnienia od terminu ogólnego
+- państwa członkowskie mogą ustalać krótsze terminy przedawnienia od terminu ogólnego
 + państwa członkowskie mogą ustalać dłuższe terminy od terminu ogólnego
 
 ? Gdy przepisy UE nie ustalają sankcji stosowanych za naruszenia prawa UE, np. nieprawidłowości lub zobowiązują państwa członkowskie do stosowania sankcji, lecz ich nie określają, wówczas:
