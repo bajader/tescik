@@ -2,13 +2,5 @@
     {
         "title": "Fundusze UE",
         "file": "Pelna_Baza_Fundusze_UE.txt"
-    },
-    {
-        "title": "Angielski",
-        "file": "test_angielski.txt"
-    },
-    {
-        "title": "Legal English",
-        "file": "Legal_English_Mock_Test_v1.txt"
     }
 ]
