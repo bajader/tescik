@@ -100,7 +100,7 @@ $ Fundusze UE - Podstawa
 - Wydatki państw członkowskich na zbrojenia i armię
 
 ? Które instytucje UE uczestniczą w uchwalaniu rocznego budżetu UE?
-- Komisja Europejska
++ Komisja Europejska
 + Parlament Europejski
 - Rada Europejska
 + Rada Unii Europejskiej
