@@ -1,6 +1,10 @@
 [
     {
-        "title": "Fundusze UE",
+        "title": "Fundusze UE - Rozszerzenie",
         "file": "Pelna_Baza_Fundusze_UE.txt"
+    },
+    {
+        "title": "Fundusze UE - Podstawa",
+        "file": "Fundusze_UE.txt"
     }
 ]

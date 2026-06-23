@@ -1,6 +1,6 @@
-$ Fundusze UE
+$ Fundusze UE - Rozszerzenie
 
-? Jakie działanie może podejmować OLAF w ramach ochrony interesów finansowych UE?
+? Jakie działania może podejmować OLAF w ramach ochrony interesów finansowych UE?
 + Prowadzenie dochodzeń administracyjnych
 - Nakładanie sankcji karnych
 + Koordynowanie działań krajowych służb kontrolnych
@@ -97,7 +97,7 @@ $ Fundusze UE
 + OLAF
 + Prokuratura Europejska (EPPO)
 
-? Kiedy państwo członkowskie ma obowiązek odzyskania funduszy UE od beneficjent, który popełnił nieprawidłowość?
+? Kiedy państwo członkowskie ma obowiązek odzyskania funduszy UE od beneficjenta, który popełnił nieprawidłowość?
 - Zawsze, gdy doszło do nieprawidłowości
 - Tylko gdy pozwala na to sytuacja finansowa beneficjenta
 + Gdy wypłata środków nastąpiła z naruszeniem prawa
@@ -139,6 +139,7 @@ $ Fundusze UE
 - Prawo do bycia zapomnianym
 + Prawo własności
 - Prawo do dobrej administracji
+
 ? W jakim przypadku sprawca nieprawidłowości jest zobowiązany do zwrotu funduszy UE wydatkowanych w wyniku nieprawidłowości?
 + W przypadku każdej nieprawidłowości, chyba że możliwość odstąpienia od zwrotu funduszy UE przewidują przepisy UE
 - W przypadku każdej nieprawidłowości, chyba że możliwość odstąpienia od zwrotu funduszy UE przewidują przepisy krajowe państwa członkowskiego
