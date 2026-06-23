@@ -52,8 +52,8 @@ $ Fundusze UE - Rozszerzenie
 + Wykonywanie budżetu przez Komisję
 - Wykonywanie budżetu przez Parlament Europejski i Radę UE
 - Orzekanie przez Trybunał Sprawiedliwości
-- Kontrola wykonania budżetu przez ETO
-+ Kontrola wykonania budżetu przez NIK
++ Kontrola wykonania budżetu przez ETO
+- Kontrola wykonania budżetu przez NIK
 
 ? Jakie przestępstwa może ścigać Prokuratura Europejska (EPPO)?
 + Nadużycia związane z funduszami UE
